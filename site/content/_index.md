@@ -1,5 +1,5 @@
 ---
-title: Nimber Proff
+title: Nimber Business
 subtitle: Amazing delivery
 image: /img/home-jumbotron.jpg
 blurb:
