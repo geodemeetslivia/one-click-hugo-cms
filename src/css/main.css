@@ -25,14 +25,44 @@
 
 
 /* External Library Includes */
-@import './imports/_reset';
-
+@import 'src/css/imports/_variables.scss';
 @import "~bulma/sass/utilities/_all";
+
 @import 'src/css/imports/_colors.scss';
 /* Modules */
 @import '~bulma';
+@import 'src/css/imports/_buttons.scss';
 
-
+html {
+  font-size: 16px;
+  @include widescreen {
+    font-size: 20px;
+  }
+}
+.bedrift_animation-0{
+  background-image: url('/img/The Munchies-1.png');
+  height:302px;
+  width:553px;
+  background-size: cover;
+}
+.bedrift_animation-1{
+  background-image: url('/img/The Munchies-2.png');
+  height:360px;
+  width:675px;
+  background-size: cover;
+}
+.bedrift_animation-2{
+  background-image: url('/img/The Munchies-3.png');
+  height:360px;
+  width:675px;
+  background-size: cover;
+}
+.bedrift_animation-3{
+  background-image: url('/img/The Munchies-4.png');
+  height:360px;
+  width:675px;
+  background-size: cover;
+}
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/

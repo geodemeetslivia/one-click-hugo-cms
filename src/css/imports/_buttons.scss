@@ -1,0 +1,76 @@
+.control {
+//.button {
+  //  border-radius: 0;
+  //}
+}
+.button {
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 1rem;
+
+
+&.is-cta {
+   width: 164px;
+ }
+
+&.is-medium {
+   height: 48px;
+   padding: 12px 16px;
+   font-size: 1rem;
+ }
+&.is-no-style {
+   border: none;
+   background-color: transparent;
+&:hover {
+   border: none;
+   background-color: transparent;
+ }
+&:focus {
+   box-shadow: none;
+   background-color: transparent;
+ }
+}
+&.is-small {
+   height: 19px;
+   padding: 12px 16px;
+   font-size: 1rem;
+ }
+&.is-large {
+   height: 58px;
+   padding: 16px 24px;
+   font-size: 1rem;
+ }
+&.is-primary {
+&:not(.is-loading):after {
+   content: "";
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   border-radius: 4px;
+ }
+
+}
+&.is-thick {
+   height: 48px;
+ }
+&.is-outlined {
+   border: 1px solid $primary;
+   color: $black;
+&:hover {
+   background: $primary;
+   color: $white;
+ }
+}
+
+&.is-secondary {
+&.is-outlined {
+&:hover {
+   color: $white;
+
+ }
+}
+}
+}
+
