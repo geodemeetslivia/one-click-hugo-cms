@@ -4,8 +4,10 @@
 
 
 {{ range $index, $element := .Params.Sections }}
-{{ if modBool $index 2 }}
+{{ if eq $index 0 }}
 {{ partial "text-and-image" $element }}
+{{ else if modBool $index 2 }}
+{{ partial "text-and-image-white" $element }}
 {{ else }}
 {{ partial "image-and-text" $element }}
 {{ end }}

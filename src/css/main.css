@@ -47,14 +47,14 @@ html {
 }
 .bedrift_animation-1{
   background-image: url('/img/The Munchies-2.png');
-  height:360px;
-  width:675px;
+  height:312px;
+  width:440px;
   background-size: cover;
 }
 .bedrift_animation-2{
   background-image: url('/img/The Munchies-3.png');
-  height:360px;
-  width:675px;
+  width: 471px;
+  height: 582px;
   background-size: cover;
 }
 .bedrift_animation-3{
