@@ -1,0 +1,13 @@
+
+$primary: #5CDB95;
+$white: #fff;
+$secondary:  #0D194E;
+
+
+
+$nimberColors: (
+"primary": ($primary, $secondary),
+"secondary": ($secondary, $white)
+);
+
+$colors: mergeColorMaps($colors, $nimberColors)

@@ -27,8 +27,11 @@
 /* External Library Includes */
 @import './imports/_reset';
 
+@import "~bulma/sass/utilities/_all";
+@import 'src/css/imports/_colors.scss';
 /* Modules */
 @import '~bulma';
+
 
 
 /* Uncomment out the line below to help debug layout issues */
