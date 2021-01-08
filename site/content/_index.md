@@ -1,5 +1,5 @@
 ---
-title: En enklere,rimeligere og smartere frakttjeneste
+title: En enklere, rimeligere og smartere frakttjeneste
 subtitle: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
 image: img/the-munchies-dish-4-3.png
 blurb:
