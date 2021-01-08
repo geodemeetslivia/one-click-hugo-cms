@@ -30,5 +30,6 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Sections", name: sections, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "text"},
+              {label: "Title", name: "title", widget: "text"}]}
 
