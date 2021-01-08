@@ -25,4 +25,10 @@ sections:
       varslinger og velge slott-tider for mottak av varer. Logg deg inn i
       portalen, så får du oversikt over alle forsendelser, både aktive og de som
       allerede er levert. "
+  - image: img/the-munchies-dish-2-1.png
+    text: Vi ønsker å være annerledesselskapet hvor din opplevelse av transporten er
+      det det handler om. Som en del av det å være annerledes i
+      transportbransjen er det sjåføren og ikke selskapet som leverer. Så da er
+      det naturlig at det er sjåføren som også skal få ris og ros. Det skal også
+      være enkelt å komme i dialog med sjåføren ved behov
 ---
