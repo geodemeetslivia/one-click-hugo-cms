@@ -32,6 +32,8 @@
 /* Modules */
 @import '~bulma';
 @import 'src/css/imports/_buttons.scss';
+@import 'src/css/imports/_typography.scss';
+@import 'src/css/imports/_navbar.scss';
 
 html {
   font-size: 16px;
