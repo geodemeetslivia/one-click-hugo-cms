@@ -37,10 +37,15 @@
 
 html {
   font-size: 20px;
-  @include mobile {
-   .section {
-     padding: 60px 40px;
-   }
+  @include mobile{
+    .section {
+      padding: 45px 26px;
+    }
+  }
+    @include tablet {
+      .section {
+        padding: 60px 40px;
+      }
   }
 }
 
@@ -54,6 +59,7 @@ html {
     flex-direction: column-reverse;
     display: flex;
   }
+
 
 }
 /* Uncomment out the line below to help debug layout issues */
