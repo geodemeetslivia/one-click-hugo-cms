@@ -1,19 +1,10 @@
-/*! TACHYONS v4.5.5 | http://tachyons.io */
 
 /*
- *
- *      ________            ______
- *      ___  __/_____ _________  /______  ______________________
- *      __  /  _  __ `/  ___/_  __ \_  / / /  __ \_  __ \_  ___/
- *      _  /   / /_/ // /__ _  / / /  /_/ // /_/ /  / / /(__  )
- *      /_/    \__,_/ \___/ /_/ /_/_\__, / \____//_/ /_//____/
- *                                 /____/
  *
  *    TABLE OF CONTENTS
  *
  *
  */
-
 
 /* External Library Includes */
 @import 'src/css/imports/_variables.scss';
@@ -22,26 +13,25 @@
 @import 'src/css/imports/_colors.scss';
 /* Modules */
 @import '~bulma';
+h1{font-size:4.5rem; }
+h2{font-size:3.1rem;}
+h3{font-size: 2.4rem;}
+h4{font-size: 1.8rem;}
+h5{font-size: 1.6rem;}
+h6 {font-size: 1rem;}
 @import 'src/css/imports/_buttons.scss';
 @import 'src/css/imports/_typography.scss';
 @import 'src/css/imports/_navbar.scss';
-h1{font-size:4.5rem;font-weight: 700 }
-h2{font-size:3.1rem;font-weight: 700}
-h3{font-size: 2.4rem;font-weight: 700}
-h4{font-size: 1.8rem;font-weight: 700}
-h5{font-size: 1.6rem;font-weight: 700}
-h6 {
-  font-size: 1rem;
-  font-weight: 700 }
+
 html {
   font-size: 20px;
   @include mobile{
-    .section {
+    .section, .footer {
       padding: 45px 26px;
     }
   }
   @include tablet-only {
-      .section {
+      .section, .footer {
         padding: 60px 40px;
       }
   }
