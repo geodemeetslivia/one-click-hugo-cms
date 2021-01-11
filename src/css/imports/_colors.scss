@@ -3,6 +3,7 @@ $primary: #5CDB95;
 $white: #fff;
 $secondary:  #0D194E;
 $warm-gray:  #4D5051;
+$light-blue: #0099FE;
 
 
 
@@ -10,7 +11,8 @@ $warm-gray:  #4D5051;
 $nimberColors: (
 "primary": ($primary, $secondary),
 "secondary": ($secondary, $white),
- "blue": (#0D194E, #0D194E)
+"blue": (#0D194E, #0D194E),
+"light-blue":  ($light-blue, $white)
 );
 
 $colors: mergeColorMaps($colors, $nimberColors)

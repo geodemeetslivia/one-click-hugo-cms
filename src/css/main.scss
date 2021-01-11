@@ -44,5 +44,17 @@ html {
   }
 }
 
+.is-size-4-mobile {
+  font-size: 1.8rem!important;
+}
+
+
+@media (max-width: 979px) {
+  .reverse-columns {
+    flex-direction: column-reverse;
+    display: flex;
+  }
+
+}
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/

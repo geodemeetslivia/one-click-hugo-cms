@@ -1,4 +1,7 @@
 .navbar {
+  @include mobile{
+    padding: 30px 36px;
+  }
   padding: 28px 80px;
   .button{
     font-size: 18px;
