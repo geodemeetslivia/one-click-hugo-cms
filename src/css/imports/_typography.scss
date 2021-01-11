@@ -3,7 +3,13 @@
 }
 .is-1 {
   line-height: 72px;
+  @include fullhd {
+    line-height: 80px;
+  }
 }
 .is-line-height-5{
   line-height: 30px;
+}
+a.has-text-underlined {
+  text-decoration: underline;
 }
