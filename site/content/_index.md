@@ -14,7 +14,8 @@ sections:
   - image: img/blog-flavor_wheel.jpg
     text: Vi syntes det er dumt å ikke vite hva transporten vil koste før man
       bestiller. Prisene du ser er også det du betaler. Verken mer eller mindre.
-    title: Ingen skjulte kostnader og enkel fakturering
+    title: Ingen skjulte kostnader
+    titlebold: og enkel fakturering
   - image: img/skjermbilde-2021-01-06-kl.-15.37-1.png
     text: Du skal til alle tider kunne vite hvor varene din er. Med vår smartness,
       vil du og dine kunder alltid kunne spore forsendelsene, få relevante
