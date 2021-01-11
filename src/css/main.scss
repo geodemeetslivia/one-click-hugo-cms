@@ -42,7 +42,7 @@ html {
       padding: 45px 26px;
     }
   }
-    @include tablet {
+  @include tablet-only {
       .section {
         padding: 60px 40px;
       }
