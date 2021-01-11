@@ -1,16 +1,14 @@
 ---
-title: En enklere, rimeligere og smartere frakttjeneste
-subtitle: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
-image: img/the-munchies-dish-4-3.png
-blurb:
-  heading: En enklere,rimeligere og smarterefrakttjeneste
-  text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
-intro:
-  heading: En enklere,rimeligere og smarterefrakttjeneste
-  text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
-products: []
 values:
   heading: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
+  text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
+products: []
+title: En enklere, rimeligere og
+titlebold: smartere frakttjeneste
+subtitle: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
+image: img/the-munchies-dish-4-3.png
+intro:
+  heading: En enklere,rimeligere og smarterefrakttjeneste
   text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
 sections:
   - image: img/blog-flavor_wheel.jpg
@@ -32,4 +30,7 @@ sections:
       være enkelt å komme i dialog med sjåføren ved behov
     title: |
       Vurder din sjåfør og opplevelsen av transporten
+blurb:
+  heading: En enklere,rimeligere og smarterefrakttjeneste
+  text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
 ---
