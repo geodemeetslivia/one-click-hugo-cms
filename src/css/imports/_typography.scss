@@ -10,6 +10,11 @@
 .is-line-height-5{
   line-height: 30px;
 }
+.title {
+  @include mobile {
+    line-height: 40px;
+  }
+}
 a.has-text-underlined {
   text-decoration: underline;
 }
