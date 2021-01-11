@@ -11,15 +11,6 @@
  *
  *    TABLE OF CONTENTS
  *
- *    1. External Library Includes
- *       - Reset.css | http://meyerweb.com/eric/tools/css/reset/
- *    2. Tachyons Modules
- *    3. Variables
- *       - Media Queries
- *       - Colors
- *    4. Debugging
- *       - Debug all
- *       - Debug children
  *
  */
 
@@ -34,7 +25,14 @@
 @import 'src/css/imports/_buttons.scss';
 @import 'src/css/imports/_typography.scss';
 @import 'src/css/imports/_navbar.scss';
-
+h1{font-size:4.5rem;font-weight: 700 }
+h2{font-size:3.1rem;font-weight: 700}
+h3{font-size: 2.4rem;font-weight: 700}
+h4{font-size: 1.8rem;font-weight: 700}
+h5{font-size: 1.6rem;font-weight: 700}
+h6 {
+  font-size: 1rem;
+  font-weight: 700 }
 html {
   font-size: 20px;
   @include mobile{
