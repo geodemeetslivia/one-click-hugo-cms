@@ -24,6 +24,7 @@ h6 {font-size: 1rem;}
 @import 'src/css/imports/_navbar.scss';
 
 html {
+
   font-size: 20px;
   @include mobile{
     .section, .footer {
@@ -35,10 +36,11 @@ html {
         padding: 60px 40px;
       }
   }
-}
-
-.is-size-4-mobile {
-  font-size: 1.8rem!important;
+  @include fullhd {
+    .section, .footer {
+      padding:120px 80px;
+    }
+  }
 }
 
 
