@@ -1,6 +1,26 @@
 .navbar {
+  .navbar-burger {
+    color: black;
+    span{
+      color: black;
+    }
+  }
   @include mobile{
     padding: 30px 36px;
+  }
+  .navbar-menu {
+    &.is-active {
+      background-color: $light-blue;
+      .button {
+        color: white;
+        border: none;
+        background-color: transparent;
+        outline: none;
+      }
+    }
+
+
+
   }
   padding: 28px 80px;
   .button{
