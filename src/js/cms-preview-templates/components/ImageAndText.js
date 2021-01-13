@@ -10,9 +10,9 @@ export default class ImageAndText extends React.Component {
       <div className="column">
         <h2 className="title is-spaced is-3 has-text-weight-normal is-size-4-mobile">
           <span>{title}</span>
-          <span className="has-text-weight-bold">{titlebold}</span>
+          <span className="has-text-weight-bold"> {titlebold}</span>
         </h2>
-        <p className="subtitle is-6 has-text-white has-text-weight-semibold">
+        <p className="subtitle is-6 has-text-weight-semibold">
           {text}
         </p>
       </div>
