@@ -2,24 +2,22 @@ import React from "react";
 
 export default class Jumbotron extends React.Component {
   render() {
-    const {image, title, subtitle} = this.props;
-    return <div>
-      <div className="pv5 pv6-l ph3 bg-center cover" style={{
-        backgroundImage: image && `url(${image})`
-      }}>
-        <div className="mw7 center ph3">
-          <div className="db mb3">
-            <div className="mw7 relative bg-fix-primary mb3">
-              <h1 className="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
-                { title }
-              </h1>
-            </div>
-            <div className="mw7 relative bg-fix-primary">
-              {subtitle && <p className="b f4 di lh-title mb3 white mw6 bg-primary">{ subtitle }</p>}
-            </div>
+    const {image, title, titlebold, subtitle} = this.props;
+    return <section className="section is-paddingless  has-background-primary">
+      <div className="section is-desktop columns">
+        <div className="column">
+          <div className="bedrift_animation-0" id="bedrift_animation-0">
+          </div>
+          <div className="column">
+            <h2 className="title is-spaced is-1 has-text-weight-normal has-text-blue is-size-3-mobile has-text-centered-mobile has-text-right">
+              <span>{title}</span>
+              <span className="has-text-weight-bold">{titlebold}</span>
+            </h2>
+            <p className="subtitle is-6 has-text-blue has-text-weight-semibold">
+              {subtitle} </p>
           </div>
         </div>
       </div>
-    </div>;
+    </section>;
   }
 }
