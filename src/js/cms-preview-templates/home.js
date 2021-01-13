@@ -21,7 +21,7 @@ export default class PostPreview extends React.Component {
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} titlebold={entry.getIn(["data", "titlebold"])} subtitle={entry.getIn(["data", "subtitle"])}/>
 
       {values.map(({title, titlebold, text}, i) =>
-         i === 1 ? <ImageAndText key={i} title={title} titlebold={titlebold} text={text} /> : <TextAndImage key={i} title={title} titlebold={titlebold} text={text} />
+         i === 0 ? <TextAndImage key={i} title={title} titlebold={titlebold} text={text} />: <ImageAndText key={i} title={title} titlebold={titlebold} text={text} />
       )}
     </div>;
   }
