@@ -10,7 +10,7 @@ export default class Jumbotron extends React.Component {
           </div>
           <div className="column">
             <h2 className="title is-spaced is-1 has-text-weight-normal has-text-blue is-size-3-mobile has-text-centered-mobile has-text-right">
-              <span>{title}</span>
+              <span>{title} </span>
               <span className="has-text-weight-bold">{titlebold}</span>
             </h2>
             <p className="subtitle is-6 has-text-blue has-text-weight-semibold">
