@@ -2,6 +2,8 @@ import React from "react";
 import format from "date-fns/format";
 
 import Jumbotron from "./components/jumbotron";
+import TextAndImage from "./components/TextAndImage";
+import ImageAndText from "./components/ImageAndText";
 
 export default class PostPreview extends React.Component {
   render() {
@@ -13,31 +15,14 @@ export default class PostPreview extends React.Component {
         image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
 
+    const entryValues = entry.getIn(["data", "sections"]);
+    const values = entryValues ? entryValues.toJS() : [];
     return <div>
-        <Jumbotron image={image} title={entry.getIn(["data", "title"])} subtitle={entry.getIn(["data", "subtitle"])}/>
+      <Jumbotron image={image} title={entry.getIn(["data", "title"])} titlebold={entry.getIn(["data", "titlebold"])} subtitle={entry.getIn(["data", "subtitle"])}/>
 
-
-
-      <div className="columns">
-        <div className="column">
-          {entry.getIn(["data", "blurb", "heading"])}
-        </div>
-        <div className="column">
-          {entry.getIn(["data", "blurb", "text"])}
-        </div>
-        <div className="column">
-          Third column
-        </div>
-        <div className="column">
-          Fourth column
-        </div>
-      </div>
-
-
-
-
-
-
-    </div>
+      {values.map(({title, titlebold, text}, i) =>
+         i === 1 ? <ImageAndText key={i} title={title} titlebold={titlebold} text={text} /> : <TextAndImage key={i} title={title} titlebold={titlebold} text={text} />
+      )}
+    </div>;
   }
 }
