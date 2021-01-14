@@ -2,6 +2,9 @@ $menuItems: 7;
 $cubic: cubic-bezier(0.4, 0.01, 0.165, 0.99);
 .navbar {
   .navbar-burger {
+    &:hover {
+      background-color: transparent;
+    }
     &.is-active {
       z-index: 100;
       color: white;
