@@ -20,6 +20,8 @@ if ($navbarBurgers.length > 0) {
 
       // Toggle the class on both the "navbar-burger" and the "navbar-menu"
       $el.classList.toggle('is-active');
+      let $icon = document.querySelectorAll('.navbar-burger i');
+      $icon[0].classList.toggle('fa-times');
       $target.classList.toggle('is-active');
 
     });
