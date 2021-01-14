@@ -6,7 +6,6 @@
       span {
         transform: translateX(10px) translateY(5px) rotate(90deg);
       }
-
     }
     span{
       background-color: transparent;
@@ -29,7 +28,19 @@
   position: fixed;
   opacity:0;
   transition:opacity 0.3s linear, height 0.3s linear;
+  li {
+    display: block;
+    height: 25%;
+    min-height: 50px;
+    position: relative;
+    opacity: 0;
+  }
+
   &.is-active {
+    li {
+      animation: fadeInRight 0.8s ease forwards;
+      animation-delay: .1s;
+    }
     background-color: $light-blue;
     height: 100%;
     width: 100%;
@@ -42,6 +53,16 @@
       background-color: transparent;
       outline: none;
     }
+  }
+}
+@keyframes fadeInRight {
+  0% {
+    opacity: 0;
+    left: 20%;
+  }
+  100% {
+    opacity: 1;
+    left: 0;
   }
 }
 
