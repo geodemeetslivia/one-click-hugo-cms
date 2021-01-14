@@ -26,6 +26,7 @@ if ($navbarBurgers.length > 0) {
   });
 }
 
+
 bodymovin.loadAnimation({
   container: document.getElementById('bedrift_animation-0'), // Required
   path: "img/animations/Nimber01_NoPadding.json", // Required

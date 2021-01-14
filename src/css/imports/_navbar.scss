@@ -1,31 +1,48 @@
 .navbar {
   .navbar-burger {
-    color: black;
+    &.is-active {
+      z-index: 100;
+      color: white;
+      span {
+        transform: translateX(10px) translateY(5px) rotate(90deg);
+      }
+
+    }
     span{
-      color: black;
+      background-color: transparent;
     }
   }
   @include mobile{
     padding: 30px 36px;
   }
-  .navbar-menu {
-    &.is-active {
-      background-color: $light-blue;
-      .button {
-        color: white;
-        border: none;
-        background-color: transparent;
-        outline: none;
-      }
-    }
 
-
-
-  }
   padding: 28px 80px;
   .button{
     font-size: 18px;
   }
-
 }
+.custom-navbar-menu {
+  height: 0;
+  top: 0;
+  left: 0;
+  visibility: hidden;
+  position: fixed;
+  opacity:0;
+  transition:opacity 0.3s linear, height 0.3s linear;
+  &.is-active {
+    background-color: $light-blue;
+    height: 100%;
+    width: 100%;
+    z-index: 99;
+    opacity:1;
+    visibility: visible;
+    .button {
+      color: white;
+      border: none;
+      background-color: transparent;
+      outline: none;
+    }
+  }
+}
+
 
