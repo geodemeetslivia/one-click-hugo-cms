@@ -22,6 +22,29 @@
           {{ .Content }}
         </p>
       </div>
-
+    </div>
+    <div class="columns">
+      <div class="column is-8">
+        {{ range $index, $element := .Params.Topics }}
+          <div class="card">
+            <header class="card-header">
+              <p class="card-header-title">
+                {{$element.title}}
+              </p>
+              <a href="#" class="card-header-icon" aria-label="more options">
+            <span class="icon">
+              <i class="fal fa-plus" aria-hidden="true"></i>
+            </span>
+              </a>
+            </header>
+            <div class="card-content">
+              <div class="content">
+                {{$element.text}}
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
   </div>
 {{ end }}
