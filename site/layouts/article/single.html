@@ -31,13 +31,13 @@
               <p class="card-header-title">
                 {{$element.title}}
               </p>
-              <a href="#" class="card-header-icon" aria-label="more options">
-              <span class="icon">
-                <i class="fal fa-plus" aria-hidden="true"></i>
+              <span class="card-header-icon " aria-label="more options" data-target="card-content-{{$index}}">
+                <span class="icon">
+                  <i class="fal fa-plus" aria-hidden="true"></i>
+                </span>
               </span>
-              </a>
             </header>
-            <div class="card-content">
+            <div class="card-content is-hidden" id="card-content-{{$index}}">
               <div class="content">
                 {{$element.text}}
               </div>

@@ -28,7 +28,22 @@ if ($navbarBurgers.length > 0) {
   });
 }
 
+let $cardHeaderIcons = Array.prototype.slice.call(document.querySelectorAll('.card-header-icon'), 0);
+if ($cardHeaderIcons.length > 0) {
 
+  // Add a click event on each of them
+  $cardHeaderIcons.forEach(function ($el) {
+    $el.addEventListener('click', function () {
+
+      // Get the target from the "data-target" attribute
+      let target = $el.dataset.target;
+      let $target = document.getElementById(target);
+
+      // Toggle visibility
+      $target.classList.toggle('is-hidden');
+    });
+  });
+}
 bodymovin.loadAnimation({
   container: document.getElementById('bedrift_animation-0'), // Required
   path: "img/animations/Nimber01_NoPadding.json", // Required
