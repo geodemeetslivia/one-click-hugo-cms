@@ -6,8 +6,9 @@ subheading: Glade kunder gir mer salg. Tilbyr du hjemlevering til et presist
 cta_text: Call to action
 image: img/rectangle-36.png
 topics:
-  - title: Topic
-    text: Content
+  - title: How much does it cost?
+    text: We have the best prices on the market and you can see them up front. No
+      hidden costs and no extras. What you see is what you get!
   - title: When can I expect my delivery?
     text: Your delivery is in good hands. Rest assured knowing that your customers
       will get the delivery on time.
