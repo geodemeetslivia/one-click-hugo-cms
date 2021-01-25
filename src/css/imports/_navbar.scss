@@ -17,17 +17,14 @@ $cubic: cubic-bezier(0.4, 0.01, 0.165, 0.99);
       background-color: transparent;
     }
   }
-  @include mobile{
-    padding: 30px 36px;
-  }
-  padding: 28px 80px;
+
   .button{
     font-size: 18px;
   }
 }
 .custom-navbar-menu {
   height: 1px;
-  width: 0px;
+  width: 0;
   top: 0;
   left: 0;
   position: fixed;

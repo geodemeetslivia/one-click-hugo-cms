@@ -10,11 +10,15 @@
 .is-line-height-5{
   line-height: 30px;
 }
-.title {
-  @include mobile {
-    line-height: 40px;
-  }
+
+.is-line-height-7{
+  line-height: 28px;
 }
+
+.is-size-8 {
+  font-size: 16px;
+}
+
 .is-size-xlarge {
   font-size:250px;
   line-height: 250px;
