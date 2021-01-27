@@ -29,9 +29,17 @@ Oppdragsgiver mottar faktura hver 14.dag med 14 dagers forfall.
 
 Med transportdokument menes elektronisk fraktbrevmelding. Avsender er ansvarlig for korrekt og nødvendig informasjon i transportdokumentet. Følgende informasjon skal fremkomme:
 •	Avsender navn og adresse
+
+
 •	Mottakers navn og leveringsadresse
+
+
 •	Antall kolli
+
+
 •	Brutto vekt og mål i dm3, oppgis ved forespørsel
+
+
 •	Nødvendig informasjon om og bruk av produkter/tilleggstjenester
 
 Ved eksport av gods skal alle nødvendige tollpapirer og andre nødvendige dokumenter, herunder dokumenter til/fra Mattilsynet, være ferdig utfylt med korrekt informasjon ved avhentingen av godset.
@@ -80,9 +88,17 @@ Hver av partene bærer egne kostnader i forbindelse med en Force Majeure-situasj
 
 Ved gjennomføring av transportavtalen gjelder:
 •	Lov om vegfraktavtaler
+
+
 •	CMR konvensjonen
+
+
 •	NSAB 2015
+
+
 •	Allmenngjøringsloven og forskrift om allmenngjøring av tariffavtale for godstransport på veg
+
+
 •	Nimbers belønningsmodellsystem for bringere
 
 ### 14. Heving av avtalen
@@ -96,6 +112,7 @@ Uoverensstemmelser eller konflikt mellom partene om innholdet i eller gjennomfø
 Sist oppdatert: 14. april 2020
 
 ##### Andre lover og regler som gjelder
+
 [NSAB 2015 (PDF](https://www.nholt.no/siteassets/dokumenter/nsab-2015-norsk.pdf))
 [Vegfraktloven](https://lovdata.no/dokument/NL/lov/1974-12-20-68?q=Lov+om+vegfraktavtaler)
 [CMR konvensjonen](https://lovdata.no/dokument/TRAKTAT/traktat/1956-05-19-1)
