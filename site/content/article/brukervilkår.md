@@ -28,17 +28,15 @@ Oppdragsgiver mottar faktura hver 14.dag med 14 dagers forfall.
 ### 5. Transportdokument/dokumentasjon
 
 Med transportdokument menes elektronisk fraktbrevmelding. Avsender er ansvarlig for korrekt og nødvendig informasjon i transportdokumentet. Følgende informasjon skal fremkomme:
-•	Avsender navn og adresse
 
+
+•	Avsender navn og adresse
 
 •	Mottakers navn og leveringsadresse
 
-
 •	Antall kolli
 
-
 •	Brutto vekt og mål i dm3, oppgis ved forespørsel
-
 
 •	Nødvendig informasjon om og bruk av produkter/tilleggstjenester
 
@@ -87,17 +85,15 @@ Hver av partene bærer egne kostnader i forbindelse med en Force Majeure-situasj
 ### 13. Lover og bestemmelser
 
 Ved gjennomføring av transportavtalen gjelder:
-•	Lov om vegfraktavtaler
 
+
+•	Lov om vegfraktavtaler
 
 •	CMR konvensjonen
 
-
 •	NSAB 2015
 
-
 •	Allmenngjøringsloven og forskrift om allmenngjøring av tariffavtale for godstransport på veg
-
 
 •	Nimbers belønningsmodellsystem for bringere
 
