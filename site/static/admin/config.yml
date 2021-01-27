@@ -13,7 +13,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Heading", name: "heading", widget: "string"}
       - {label: "Subheading", name: "subheading", widget: "string"}
-      - {label: "CTA text", name: "cta_text", widget: "text"}
+      - {label: "CTA text", name: "cta_text", widget: "text", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - { label: "Topics", name: topics, widget: list, fields: [
