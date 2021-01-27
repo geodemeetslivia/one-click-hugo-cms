@@ -7,11 +7,11 @@ subheading: For at en leveranse skal kunne gjennomføres på en forsvarlig måte
   alle parter vet hvilke ansvar de har ved en forsendelse.
 cta_text: This must be optional
 ---
-# 1. Avtalens omfang
+### 1. Avtalens omfang
 
 Avtalen omfatter transport av oppdragsgivers produkter.
 
-## 2. Avtalens varighet, oppsigelse
+### 2. Avtalens varighet, oppsigelse
 
 Avtalen er løpende. 
 
@@ -20,11 +20,11 @@ Avtalen er løpende. 
 Alle priser er oppgitt eksklusive merverdiavgift. 
 Bringer har selv ansvar for å fastsette pris.
 
-#### 4. Betalingsbetingelser
+### 4. Betalingsbetingelser
 
 Oppdragsgiver mottar faktura hver 14.dag med 14 dagers forfall.
 
-##### 5. Transportdokument/dokumentasjon
+### 5. Transportdokument/dokumentasjon
 
 Med transportdokument menes elektronisk fraktbrevmelding. Avsender er ansvarlig for korrekt og nødvendig informasjon i transportdokumentet. Følgende informasjon skal fremkomme:
 •	Avsender navn og adresse
@@ -35,17 +35,17 @@ Med transportdokument menes elektronisk fraktbrevmelding. Avsender er ansvarlig 
 
 Ved eksport av gods skal alle nødvendige tollpapirer og andre nødvendige dokumenter, herunder dokumenter til/fra Mattilsynet, være ferdig utfylt med korrekt informasjon ved avhentingen av godset.
 
-###### 6. Emballasje
+### 6. Emballasje
 
 Oppdragsgiver er ansvarlig for tilfredsstillende emballering av godset. Nimber har ingen undersøkelsesplikt eller ansvar for at godset er tilfredsstillende emballert. Sendes gods med manglende eller mangelfull emballasje, er transportør ikke forpliktet til å yte erstatning for skade grunnet påkjenninger i transportveien hvis skaden kunne ha vært unngått om godset var tilstrekkelig emballert.
 Bringer er ansvarlig for å sjekke at godset er godt nok emballert ved henting.
 
-# 7. Henting og levering
+### 7. Henting og levering
 
 Hente- og leveringstid avtales særskilt.
 Lasting og lossing av godset utføres ikke av Nimber med mindre det er særskilt avtalt.
 
-## 8. Transport av temperaturregulert gods
+### 8. Transport av temperaturregulert gods
 
 Ved transport av temperaturregulert gods, er Oppdragsgiver ansvarlig for å gi korrekt informasjon om hvilken temperatur godset ønskes fraktet under. Dette skjer ved innmelding av transportoppdrag. 
 
@@ -59,15 +59,15 @@ Hvis det skriftlig avtales at Bringer skal kjøle ned eller varme opp gods under
 
 Den som vil gjøre gjeldende at godset er forsinket, skadet eller at sendingen ikke er fulltallig, må reklamere i samsvar med bestemmelsene i vegfraktloven, CMR-konvensjonen og NSAB 2015.
 
-#### 10. Forsinkelse, skade, tap og manko
+### 10. Forsinkelse, skade, tap og manko
 
 Nimber opptrer som formidler av transporttjenester og har intet ansvar for forsinkelse, skade, tap eller manko som måtte oppstå i forbindelse med transporten, jfr NSAB § 3 C.
 
-##### 11.Særlig om senders forsikringsbehov
+### 11.Særlig om senders forsikringsbehov
 
 Som det fremgår av denne avtale, er Bringers transportansvar begrenset etter vegfraktloven, CMR-konvensjonen, NSAB 2015 og eventuelt andre regler, og Nimbers egne forsikringer dekker ikke ansvar ut over det som følger av disse bestemmelsene. Sender har av den grunn ofte behov for å tegne egne transport-, vare- og/eller lagringsforsikringer, særlig gjelder det for transport/lagring av temperaturregulert gods som kan være lett fordervelig og utsatt for skade.
 
-###### 12. Force Majeure
+### 12. Force Majeure
 
 Hvis en ekstraordinær situasjon (Force Majeure) skulle oppstå, og som ingen av partene med rimelighet kunne forutse ved inngåelse av denne avtale, eller som oppstår utenfor partenes kontroll i avtaleperioden, og som hindrer oppfyllelsen av denne avtale, fritas den rammede part for sine forpliktelser og ansvar i henhold til denne avtale, så lenge den ekstraordinære situasjonen varer.
 
@@ -75,7 +75,7 @@ Som ekstraordinær situasjon (Force Majeure) anses blant annet mobilisering, kri
 
 Hver av partene bærer egne kostnader i forbindelse med en Force Majeure-situasjon.
 
-# 13. Lover og bestemmelser
+### 13. Lover og bestemmelser
 
 Ved gjennomføring av transportavtalen gjelder:
 •	Lov om vegfraktavtaler
@@ -84,17 +84,17 @@ Ved gjennomføring av transportavtalen gjelder:
 •	Allmenngjøringsloven og forskrift om allmenngjøring av tariffavtale for godstransport på veg
 •	Nimbers belønningsmodellsystem for bringere
 
-## 14.Heving av avtalen
+### 14. Heving av avtalen
 
 Dersom en av partene vesentlig misligholder avtalen, kan den annen part heve avtalen med øyeblikkelig virkning.
 
-### 15.Tvister og lovvalg
+### 15. Tvister og lovvalg
 
 Uoverensstemmelser eller konflikt mellom partene om innholdet i eller gjennomføringen av denne avtale, skal søkes løst ved forhandlinger. Dersom slike forhandlinger ikke fører frem, skal tvister løses etter norsk rett ved de alminnelige domstoler, med Oslo som avtalt verneting.
 
 Sist oppdatert: 14. april 2020
 
-Andre lover og regler som gjelder
+##### Andre lover og regler som gjelder
 [NSAB 2015 (PDF](https://www.nholt.no/siteassets/dokumenter/nsab-2015-norsk.pdf))
 [Vegfraktloven](https://lovdata.no/dokument/NL/lov/1974-12-20-68?q=Lov+om+vegfraktavtaler)
 [CMR konvensjonen](https://lovdata.no/dokument/TRAKTAT/traktat/1956-05-19-1)
