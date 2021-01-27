@@ -1,4 +1,5 @@
 ---
+title: omfraktbestilling
 heading: Lorem ipsum dolor sit amet consectetur elit
 subheading: Glade kunder gir mer salg. Tilbyr du hjemlevering til et presist
   tidspunkt, er sjansen større for at kundene dine fortsetter å handle hos deg.
