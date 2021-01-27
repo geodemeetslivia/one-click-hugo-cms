@@ -27,6 +27,15 @@ h6 {font-size: 1rem;}
 
 html {
   font-size: 20px;
+  word-break: normal;
+  .title {
+    word-break: normal;
+  }
+  @media screen and (min-width: 768px) {
+    html {
+      font-size: calc(18px + 6 * ((100vw - 768px) / 680));
+    }
+  }
   @include mobile{
     .section{
       padding: 32px 32px;
@@ -121,7 +130,6 @@ html {
     }
   }
 }
-
 
 @media (max-width: 768px) {
   .reverse-columns {
