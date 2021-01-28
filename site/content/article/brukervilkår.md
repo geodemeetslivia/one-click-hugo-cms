@@ -6,7 +6,7 @@ subheading: For at en leveranse skal kunne gjennomføres på en forsvarlig måte
   Både oppdragsgivere og sjåfører har ansvar for at en forsendelse går som den
   skal, og disse vilkårene har til hensikt å sikre at alle parter vet hvilke
   ansvar de har ved en forsendelse.
-cta_text: This must be optional
+cta_text: ""
 ---
 ### 1. Avtalens omfang
 
