@@ -7,7 +7,7 @@
         <p class="subtitle is-7 has-text-blue has-text-weight-semibold">
           {{ .Params.subheading }}
         </p>
-        <a class="button is-primary" href="#">{{.Params.cta_text}}</a>
+        {{ if .Params.cta_text }}<a class="button is-primary" href="#">{{.Params.cta_text}}</a>{{ end }}
       </div>
 
     </div>
@@ -43,7 +43,7 @@
           </div>
         {{ end }}
         <div class="mt-xlarge">
-          <a class="button is-primary" href="#">{{.Params.cta_text}}</a>
+          {{ if .Params.cta_text }}<a class="button is-primary" href="#">{{.Params.cta_text}}</a>{{ end }}
         </div>
 
       </div>
