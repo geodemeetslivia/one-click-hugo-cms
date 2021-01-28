@@ -104,10 +104,10 @@ Sist oppdatert: 28. januar 2021
 
 ##### Andre lover og regler som gjelder
 
-[NSAB 2015 (PDF](https://www.nholt.no/siteassets/dokumenter/nsab-2015-norsk.pdf))\
+[NSAB 2015 (PDF](https://www.nholt.no/siteassets/dokumenter/nsab-2015-norsk.pdf))
 
-[Vegfraktloven](https://lovdata.no/dokument/NL/lov/1974-12-20-68?q=Lov+om+vegfraktavtaler)\
+[Vegfraktloven](https://lovdata.no/dokument/NL/lov/1974-12-20-68?q=Lov+om+vegfraktavtaler)
 
-[CMR konvensjonen](https://lovdata.no/dokument/TRAKTAT/traktat/1956-05-19-1)\
+[CMR konvensjonen](https://lovdata.no/dokument/TRAKTAT/traktat/1956-05-19-1)
 
 [Allmenngjøringsloven og forskrift om allmenngjøring av tariffavtale for godstransport på veg](https://lovdata.no/dokument/LTI/forskrift/2017-03-31-535)
