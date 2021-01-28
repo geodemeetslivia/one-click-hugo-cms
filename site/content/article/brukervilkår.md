@@ -2,10 +2,10 @@
 title: brukervilkar
 heading: Fraktbestillings generelle brukervilkår
 subheading: For at en leveranse skal kunne gjennomføres på en forsvarlig måte,
-  er det viktig at både oppdragsgivere og bringere gjør seg kjent med hvilke
-  regler som gjelder. Både oppdragsgivere og bringere har ansvar for at en
-  forsendelse går som den skal, og disse vilkårene har til hensikt å sikre at
-  alle parter vet hvilke ansvar de har ved en forsendelse.
+  er det viktig at oppdragsgivere gjør seg kjent med hvilke regler som gjelder.
+  Både oppdragsgivere og sjåfører har ansvar for at en forsendelse går som den
+  skal, og disse vilkårene har til hensikt å sikre at alle parter vet hvilke
+  ansvar de har ved en forsendelse.
 cta_text: This must be optional
 ---
 ### 1. Avtalens omfang
@@ -19,7 +19,6 @@ Avtalen er løpende. 
 ### 3. Priser og prisjustering
 
 Alle priser er oppgitt eksklusive merverdiavgift. 
-Bringer har selv ansvar for å fastsette pris.
 
 ### 4. Betalingsbetingelser
 
@@ -28,7 +27,6 @@ Oppdragsgiver mottar faktura hver 14.dag med 14 dagers forfall.
 ### 5. Transportdokument/dokumentasjon
 
 Med transportdokument menes elektronisk fraktbrevmelding. Avsender er ansvarlig for korrekt og nødvendig informasjon i transportdokumentet. Følgende informasjon skal fremkomme:
-
 
 •	Avsender navn og adresse
 
@@ -45,7 +43,7 @@ Ved eksport av gods skal alle nødvendige tollpapirer og andre nødvendige dokum
 ### 6. Emballasje
 
 Oppdragsgiver er ansvarlig for tilfredsstillende emballering av godset. Nimber har ingen undersøkelsesplikt eller ansvar for at godset er tilfredsstillende emballert. Sendes gods med manglende eller mangelfull emballasje, er transportør ikke forpliktet til å yte erstatning for skade grunnet påkjenninger i transportveien hvis skaden kunne ha vært unngått om godset var tilstrekkelig emballert.
-Bringer er ansvarlig for å sjekke at godset er godt nok emballert ved henting.
+Sjåfør er ansvarlig for å sjekke at godset er godt nok emballert ved henting.
 
 ### 7. Henting og levering
 
@@ -56,11 +54,11 @@ Lasting og lossing av godset utføres ikke av Nimber med mindre det er særskilt
 
 Ved transport av temperaturregulert gods, er Oppdragsgiver ansvarlig for å gi korrekt informasjon om hvilken temperatur godset ønskes fraktet under. Dette skjer ved innmelding av transportoppdrag. 
 
-Dersom godsets kjernetemperatur er forskjellig fra det Oppdragsgiver har oppgitt som den temperatur som godset skal transporteres under, påtar Bringer seg intet ansvar for skade eller verdiforringelse som måtte oppstå som følge av at godset fraktes under den opprinnelige oppgitte temperatur.
+Dersom godsets kjernetemperatur er forskjellig fra det Oppdragsgiver har oppgitt som den temperatur som godset skal transporteres under, påtar Nimber seg intet ansvar for skade eller verdiforringelse som måtte oppstå som følge av at godset fraktes under den opprinnelige oppgitte temperatur.
 
-Bringer påtar seg ikke å kjøle ned eller varme opp gods under transport med mindre dette er skriftlig avtalt i det enkelte tilfelle. Den enkelte sjåfør har ikke fullmakt til å inngå slik avtale. Avtale om å kjøle ned eller varme opp gods kan ikke inngås ved påtegning på fraktbrevet.
+Nimber påtar seg ikke å kjøle ned eller varme opp gods under transport med mindre dette er skriftlig avtalt i det enkelte tilfelle. Den enkelte sjåfør har ikke fullmakt til å inngå slik avtale. Avtale om å kjøle ned eller varme opp gods kan ikke inngås ved påtegning på fraktbrevet.
 
-Hvis det skriftlig avtales at Bringer skal kjøle ned eller varme opp gods under transport, skjer det for Senders risiko. Bringer kan ikke garantere at godset ved levering vil ha den ønskede temperatur og påtar seg heller ikke ansvar for eventuell skade som måtte oppstå som følge av slik nedkjøling eller oppvarming.
+Hvis det skriftlig avtales at sjåfør skal kjøle ned eller varme opp gods under transport, skjer det for Senders risiko. Nimber kan ikke garantere at godset ved levering vil ha den ønskede temperatur og påtar seg heller ikke ansvar for eventuell skade som måtte oppstå som følge av slik nedkjøling eller oppvarming.
 
 ### 9. Reklamasjon
 
@@ -72,7 +70,7 @@ Nimber opptrer som formidler av transporttjenester og har intet ansvar for forsi
 
 ### 11.Særlig om senders forsikringsbehov
 
-Som det fremgår av denne avtale, er Bringers transportansvar begrenset etter vegfraktloven, CMR-konvensjonen, NSAB 2015 og eventuelt andre regler, og Nimbers egne forsikringer dekker ikke ansvar ut over det som følger av disse bestemmelsene. Sender har av den grunn ofte behov for å tegne egne transport-, vare- og/eller lagringsforsikringer, særlig gjelder det for transport/lagring av temperaturregulert gods som kan være lett fordervelig og utsatt for skade.
+Som det fremgår av denne avtale, er sjåførs transportansvar begrenset etter vegfraktloven, CMR-konvensjonen, NSAB 2015 og eventuelt andre regler, og Nimbers egne forsikringer dekker ikke ansvar ut over det som følger av disse bestemmelsene. Sender har av den grunn ofte behov for å tegne egne transport-, vare- og/eller lagringsforsikringer, særlig gjelder det for transport/lagring av temperaturregulert gods som kan være lett fordervelig og utsatt for skade.
 
 ### 12. Force Majeure
 
@@ -86,7 +84,6 @@ Hver av partene bærer egne kostnader i forbindelse med en Force Majeure-situasj
 
 Ved gjennomføring av transportavtalen gjelder:
 
-
 •	Lov om vegfraktavtaler
 
 •	CMR konvensjonen
@@ -94,8 +91,6 @@ Ved gjennomføring av transportavtalen gjelder:
 •	NSAB 2015
 
 •	Allmenngjøringsloven og forskrift om allmenngjøring av tariffavtale for godstransport på veg
-
-•	Nimbers belønningsmodellsystem for bringere
 
 ### 14. Heving av avtalen
 
@@ -105,7 +100,7 @@ Dersom en av partene vesentlig misligholder avtalen, kan den annen part heve avt
 
 Uoverensstemmelser eller konflikt mellom partene om innholdet i eller gjennomføringen av denne avtale, skal søkes løst ved forhandlinger. Dersom slike forhandlinger ikke fører frem, skal tvister løses etter norsk rett ved de alminnelige domstoler, med Oslo som avtalt verneting.
 
-Sist oppdatert: 14. april 2020
+Sist oppdatert: 28. januar 2021
 
 ##### Andre lover og regler som gjelder
 
