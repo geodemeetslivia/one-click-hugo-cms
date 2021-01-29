@@ -54,17 +54,21 @@ html {
     .section{
       padding: 32px 32px;
 
-      .title.is-1 {
+      .title.is-1, h1{
         line-height: 40px;
         font-size: 42px;
       }
-      .title.is-2 {
+      .title.is-2, h2 {
         line-height: 1.6rem;
         font-size: 32px;
       }
-      .title.is-3 {
+      .title.is-3, h3 {
         line-height: 1.5rem;
         font-size: 28px;
+      }
+      h3, h5 {
+        margin-top: 32px;
+        margin-bottom:12px;
       }
     }
     .navbar {padding: 28px 32px 28px 32px;}
@@ -76,6 +80,10 @@ html {
     }
     .footer {padding: 60px 48px 40px 48px;}
     .navbar {padding: 28px 48px 28px 48px;}
+    h3, h5 {
+      margin-top: 64px;
+      margin-bottom:24px;
+    }
   }
   @include desktop-only {
     .section {
@@ -90,17 +98,11 @@ html {
     }
     .footer {padding: 60px 80px 40px 80px;}
     .navbar {padding: 28px 80px 28px 80px;}
-    //.title.is-1 {
-    //  line-height: 86px;
-    //}
-    //.title.is-2 {
-    //  line-height: 64px;
-    //  font-size: 64px;
-    //}
-    //
-    //.subtitle.is-7 {
-    //  font-size: 22px;
-    //}
+    h3, h5 {
+      margin-top: 64px;
+      margin-bottom:24px;
+    }
+
   }
   @include fullhd {
     .section {
@@ -108,20 +110,24 @@ html {
     }
     .footer {padding: 60px 120px 40px 120px;}
     .navbar {padding: 28px 120px 28px 120px;}
-    .title.is-1 {
+    .title.is-1, h1 {
       line-height: 86px;
       font-size: 96px;
     }
-    .title.is-2 {
+    .title.is-2, h2 {
       line-height: 64px;
       font-size: 64px;
     }
-    .title.is-3 {
+    .title.is-3, h3 {
       line-height:48px;
       font-size: 48px;
     }
     .subtitle.is-7 {
       font-size: 22px;
+    }
+    h3, h5 {
+      margin-top: 98px;
+      margin-bottom:24px;
     }
   }
 }

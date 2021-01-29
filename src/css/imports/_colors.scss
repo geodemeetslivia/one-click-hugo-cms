@@ -1,7 +1,7 @@
 
-$primary: #5CDB95;
+$primary: #2E79BA;
 $white: #fff;
-$secondary:  #0D194E;
+$secondary:  #5C95CF;
 $warm-gray:  #4D5051;
 $warm-gray3:  #E7E1DC;
 $light-blue: #0099FE;
@@ -10,7 +10,7 @@ $light-blue: #0099FE;
 
 
 $nimberColors: (
-"primary": ($primary, $secondary),
+"primary": ($primary, $white),
 "secondary": ($secondary, $white),
 "blue": (#0D194E, #0D194E),
 "light-blue":  ($light-blue, $white)

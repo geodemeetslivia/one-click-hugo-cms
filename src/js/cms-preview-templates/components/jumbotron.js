@@ -9,11 +9,11 @@ export default class Jumbotron extends React.Component {
           <div className="bedrift_animation-0" id="bedrift_animation-0">
           </div>
           <div className="column">
-            <h2 className="title is-spaced is-1 has-text-weight-normal has-text-blue is-size-3-mobile has-text-left-mobile has-text-right">
+            <h2 className="title is-spaced is-1 has-text-weight-normal has-text-white is-size-3-mobile has-text-left-mobile has-text-right">
               <span>{title} </span>
               <span className="has-text-weight-bold">{titlebold}</span>
             </h2>
-            <p className="subtitle is-7 has-text-blue has-text-weight-semibold">
+            <p className="subtitle is-7 has-text-white has-text-weight-semibold">
               {subtitle} </p>
           </div>
         </div>
