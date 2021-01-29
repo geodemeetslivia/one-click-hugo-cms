@@ -43,7 +43,6 @@ html {
   .is-marginless-top {
     margin-top: 0;
   }
-
   font-size: 20px;
   word-break: normal;
   .title {
@@ -69,6 +68,7 @@ html {
       h3, h5 {
         margin-top: 32px;
         margin-bottom:12px;
+        word-break: break-all;
       }
     }
     .navbar {padding: 28px 32px 28px 32px;}
