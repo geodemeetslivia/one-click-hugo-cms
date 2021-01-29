@@ -2,12 +2,12 @@
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
   <body class="sans-serif">
-  <div>
-      {{ block "header" . }}{{ partial "nav" . }}{{end}}
-      {{ block "main" . }}{{ end }}
-    </div>
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    <div class="main-container">
+        {{ block "header" . }}{{ partial "nav" . }}{{end}}
+        {{ block "main" . }}{{ end }}
 
+      {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    </div>
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
       <script src="{{ relURL . }}"></script>

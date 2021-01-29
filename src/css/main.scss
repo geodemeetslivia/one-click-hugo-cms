@@ -13,12 +13,22 @@
 @import 'src/css/imports/_colors.scss';
 /* Modules */
 @import '~bulma';
-h1{font-size: 7.5vw}
-h2{font-size: 5.5vw;}
-h3{font-size: 3.5vw;}
+h1{font-size: 7.5vw;line-height: 7.5vw;}
+h2{font-size: 5.5vw; line-height: 5.5vw;}
+h3{font-size: 3.5vw;line-height: 3.5vw;}
 h4{font-size: 1.8rem;}
 h5{font-size: 1.6rem;}
 h6 {font-size: 1rem;}
+
+.title.is-3 {
+  line-height: 3.5vw;
+}
+.title.is-1 {
+  line-height: 7.5vw;
+}
+.title.is-2 {
+  line-height: 5.5vw;
+}
 
 @import 'src/css/imports/_buttons.scss';
 @import 'src/css/imports/_typography.scss';
@@ -26,6 +36,14 @@ h6 {font-size: 1rem;}
 @import 'src/css/imports/_card.scss';
 
 html {
+  .main-container {
+    max-width: 1920px;
+    margin: auto;
+  }
+  .is-marginless-top {
+    margin-top: 0;
+  }
+
   font-size: 20px;
   word-break: normal;
   .title {
@@ -58,15 +76,6 @@ html {
     }
     .footer {padding: 60px 48px 40px 48px;}
     .navbar {padding: 28px 48px 28px 48px;}
-    .title.is-1 {
-      line-height: 7.5vw;
-    }
-    .title.is-3 {
-      line-height: 3.5vw;
-    }
-    .title.is-2 {
-      line-height: 5.5vw;
-    }
   }
   @include desktop-only {
     .section {
@@ -74,13 +83,6 @@ html {
     }
     .footer {padding: 60px 64px 40px 64px;}
     .navbar {padding: 28px 64px 28px 64px;}
-    .title.is-1 {
-      line-height: 7.5vw;
-
-    }
-    .title.is-3 {
-      line-height:3.5vw;
-    }
   }
   @include widescreen {
     .section {
@@ -88,17 +90,17 @@ html {
     }
     .footer {padding: 60px 80px 40px 80px;}
     .navbar {padding: 28px 80px 28px 80px;}
-    .title.is-1 {
-      line-height: 86px;
-    }
-    .title.is-2 {
-      line-height: 64px;
-      font-size: 64px;
-    }
-
-    .subtitle.is-7 {
-      font-size: 22px;
-    }
+    //.title.is-1 {
+    //  line-height: 86px;
+    //}
+    //.title.is-2 {
+    //  line-height: 64px;
+    //  font-size: 64px;
+    //}
+    //
+    //.subtitle.is-7 {
+    //  font-size: 22px;
+    //}
   }
   @include fullhd {
     .section {
@@ -114,8 +116,8 @@ html {
       line-height: 64px;
       font-size: 64px;
     }
-    .title.is-4 {
-      line-height: 48px;
+    .title.is-3 {
+      line-height:48px;
       font-size: 48px;
     }
     .subtitle.is-7 {
