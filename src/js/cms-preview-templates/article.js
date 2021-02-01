@@ -8,8 +8,8 @@ export default class ArticlePreview extends React.Component {
       <div className="columns">
         <div className="column is-8">
           <h1
-            className="title is-spaced is-1 has-text-weight-normal has-text-blue is-size-4-mobile">{entry.getIn(["data", "heading"])}</h1>
-          <p className="subtitle is-7 has-text-blue has-text-weight-semibold">
+            className="title is-spaced is-1 has-text-weight-normal  is-size-4-mobile">{entry.getIn(["data", "heading"])}</h1>
+          <p className="subtitle is-7 has-text-weight-semibold">
             {entry.getIn(["data", "subheading"])}
           </p>
           <a className="button is-primary" href="#">{entry.getIn(["data", "cta_text"])}</a>
