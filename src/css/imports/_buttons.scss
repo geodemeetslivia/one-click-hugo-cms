@@ -1,8 +1,4 @@
-.control {
-//.button {
-  //  border-radius: 0;
-  //}
-}
+
 .button {
   border-radius: 3px;
   font-weight: 600;
@@ -23,7 +19,7 @@
    background-color: transparent;
 &:hover {
    border: none;
-   background-color: transparent;
+   background-color: $light-gray;
  }
 &:focus {
    box-shadow: none;
@@ -56,18 +52,17 @@
    height: 48px;
  }
 &.is-outlined {
-   border: 1px solid $primary;
+   border: 1px solid $navy-blue;
    color: $black;
 &:hover {
-   background: $primary;
-   color: $white;
+   background: $light-gray;
  }
 }
 
 &.is-secondary {
 &.is-outlined {
 &:hover {
-   color: $white;
+   background-color: $light-gray;
 
  }
 }
