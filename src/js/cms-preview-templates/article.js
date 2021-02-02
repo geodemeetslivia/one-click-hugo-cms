@@ -6,7 +6,9 @@ export default class ArticlePreview extends React.Component {
     const values = entryValues ? entryValues.toJS() : [];
     return <div className="section">
       <div className="columns">
-        <div className="column is-8">
+        <div className="column is-3">
+        </div>
+        <div className="column is-9">
           <h1
             className="title is-spaced is-1 has-text-weight-normal  is-size-4-mobile">{entry.getIn(["data", "heading"])}</h1>
           <p className="subtitle is-7 has-text-weight-semibold">
@@ -17,12 +19,16 @@ export default class ArticlePreview extends React.Component {
       </div>
 
       <div className="columns">
-        <div className="column is-8">
+        <div className="column is-3">
+        </div>
+        <div className="column is-9">
             {widgetFor("body") }
         </div>
       </div>
       <div className="columns">
-        <div className="column is-8">
+        <div className="column is-3">
+        </div>
+        <div className="column is-9">
           {values.map(({title, text}, i) =>
 
           <div className="card">
