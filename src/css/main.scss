@@ -13,6 +13,31 @@
 @import 'src/css/imports/_colors.scss';
 /* Modules */
 @import '~bulma';
+@media (prefers-color-scheme: dark) {
+  /* defaults to dark theme */
+  body {
+    .navbar,.footer {
+      background: rgba(255, 255, 255, 0.08);
+    }
+    --text-color: white;
+    --bkg-color: #121212;
+    background: black;
+    color: white;
+    .has-background-primary, .has-background-secondary {
+      background: black !important;
+    }
+    .title{
+      color: $navy-blue !important;
+    }
+    .subtitle, .navbar-item a {
+      color: white;
+    }
+    .custom-navbar-menu.is-active {
+      background: #180233;
+    }
+  }
+
+}
 h1{font-size: 7.5vw;line-height: 7.5vw;}
 h2{font-size: 5.5vw; line-height: 5.5vw;}
 h3{font-size: 3.5vw;line-height: 3.5vw;}
