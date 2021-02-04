@@ -6,8 +6,7 @@ products: []
 intro:
   heading: En enklere,rimeligere og smartere frakttjeneste
   text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
-title: En enklere, rimeligere og
-titlebold: smartere frakttjeneste
+title: Superenkel frakt for din bedrift
 subtitle: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
 sections:
   - image: img/blog-flavor_wheel.jpg
@@ -34,4 +33,5 @@ blurb:
   heading: En enklere,rimeligere og smarterefrakttjeneste
   text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
 image: img/the-munchies-dish-4-3.png
+titlebold: smartere frakttjeneste
 ---
