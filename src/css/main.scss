@@ -13,28 +13,7 @@
 @import 'src/css/imports/_colors.scss';
 /* Modules */
 @import '~bulma';
-@media (prefers-color-scheme: dark) {
-  /* defaults to dark theme */
-  body {
-    .navbar,.footer {
-      background: rgba(255, 255, 255, 0.08);
-    }
-    --text-color: white;
-    --bkg-color: #121212;
-    background: black;
-    color: white;
-    .title{
-      color: $navy-blue !important;
-    }
-    .subtitle, .navbar-item a {
-      color: white;
-    }
-    .custom-navbar-menu.is-active {
-      background: #180233;
-    }
-  }
 
-}
 .column {
   padding: 0;
 }
@@ -147,6 +126,10 @@ html {
     .footer {padding: 32px 32px 32px 32px;}
   }
   @include tablet-only {
+    .bedrift_background-2 {
+      width: auto;
+      height: 250px;
+    }
     .section {
       padding: 48px 48px;
     }
@@ -210,6 +193,35 @@ html {
     display: flex;
   }
 
+
+}
+
+@media (prefers-color-scheme: dark) {
+  /* defaults to dark theme */
+  body {
+    .navbar,.footer {
+      background: rgba(255, 255, 255, 0.08);
+    }
+    --text-color: white;
+    --bkg-color: #121212;
+    background: black;
+    .subtitle.is-7 {
+      color: white;
+    }
+    color: white;
+    .title{
+      color: $navy-blue !important;
+    }
+    .title.is-2{
+      color: black !important;
+    }
+    .subtitle, .navbar-item a {
+      color: white;
+    }
+    .custom-navbar-menu.is-active {
+      background: #180233;
+    }
+  }
 
 }
 /* Uncomment out the line below to help debug layout issues */
