@@ -3,17 +3,16 @@ values:
   heading: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
   text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
 products: []
-title: En enklere, rimeligere og
-titlebold: smartere frakttjeneste
-subtitle: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
-image: img/the-munchies-dish-4-3.png
 intro:
   heading: En enklere,rimeligere og smartere frakttjeneste
   text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
+title: En enklere, rimeligere og
+titlebold: smartere frakttjeneste
+subtitle: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
 sections:
   - image: img/blog-flavor_wheel.jpg
-    text: Vi syntes det er dumt å ikke vite hva transporten vil koste før man
-      bestiller. Prisene du ser er også det du betaler. Verken mer eller mindre.
+    text: "Vi syntes det er dumt å ikke vite hva transporten vil koste før man
+      bestiller. Prisene du ser er også det du betaler. "
     title: Ingen skjulte kostnader
     titlebold: og enkel fakturering
   - image: img/skjermbilde-2021-01-06-kl.-15.37-1.png
@@ -34,4 +33,5 @@ sections:
 blurb:
   heading: En enklere,rimeligere og smarterefrakttjeneste
   text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
+image: img/the-munchies-dish-4-3.png
 ---
