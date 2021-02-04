@@ -5,7 +5,7 @@ export default class ImageAndText extends React.Component {
     const {title, titlebold, text} = this.props;
     return <section className="section columns reverse-columns">
       <div className="column">
-        <div className="bedrift_animation-1" id="bedrift_animation-2"></div>
+        <div className="bedrift_background-2"></div>
       </div>
       <div className="column">
         <h2 className="title is-spaced is-4 has-text-weight-normal  is-size-6-mobile">

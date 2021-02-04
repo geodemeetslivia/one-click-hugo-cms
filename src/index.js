@@ -46,7 +46,7 @@ if ($cardHeaderIcons.length > 0) {
 }
 bodymovin.loadAnimation({
   container: document.getElementById('bedrift_animation-0'), // Required
-  path: "img/animations/Nimber01_NoPadding.json", // Required
+  path: "img/animations/FraktBestiling_Box_Bus.json", // Required
   renderer: 'svg', // Required
   loop: true, // Optional
   autoplay: true, // Optional
@@ -58,7 +58,7 @@ bodymovin.loadAnimation({
 });
 bodymovin.loadAnimation({
   container: document.getElementById('bedrift_animation-1'), // Required
-  path: "img/animations/Nimber02_NoPadding.json", // Required
+  path: "img/animations/FraktBestiling_Driver_8s.json", // Required
   renderer: 'svg', // Required
   loop: true, // Optional
   autoplay: true, // Optional
@@ -67,27 +67,6 @@ bodymovin.loadAnimation({
 
   }
 });
-bodymovin.loadAnimation({
-  container: document.getElementById('bedrift_animation-2'), // Required
-  path: "img/animations/Nimber03_NoPadding.json", // Required
-  renderer: 'svg', // Required
-  loop: true, // Optional
-  autoplay: true, // Optional
-  rendererSettings: {
-    progressiveLoad: true, // Boolean, only svg renderer, loads dom elements when needed. Might speed up initialization for large number of elements.
 
-  }
-})
-bodymovin.loadAnimation({
-  container: document.getElementById('bedrift_animation-3'), // Required
-  path: "img/animations/Nimber03_NoPadding.json", // Required
-  renderer: 'svg', // Required
-  loop: true, // Optional
-  autoplay: true, // Optional
-  rendererSettings: {
-    progressiveLoad: true, // Boolean, only svg renderer, loads dom elements when needed. Might speed up initialization for large number of elements.
-
-  }
-})
 
 

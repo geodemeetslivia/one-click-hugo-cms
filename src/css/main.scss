@@ -23,9 +23,6 @@
     --bkg-color: #121212;
     background: black;
     color: white;
-    .has-background-primary, .has-background-secondary {
-      background: black !important;
-    }
     .title{
       color: $navy-blue !important;
     }
@@ -38,6 +35,9 @@
   }
 
 }
+.column {
+  padding: 0;
+}
 h1{font-size: 7.5vw;line-height: 7.5vw;}
 h2{font-size: 5.5vw; line-height: 5.5vw;}
 h3{font-size: 3.5vw;line-height: 3.5vw;}
@@ -45,6 +45,24 @@ h4{font-size: 1.8rem;}
 h5{font-size: 1.6rem;}
 h6 {font-size: 1rem;}
 
+.bedrift_background-1 {
+  background-image: url('/img/background_1.png');
+  height: 394px;
+  width: 524px;
+  margin-top: -50px;
+  margin-left: 41px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.bedrift_background-2 {
+  background-image: url('/img/background_2.png');
+  margin-left: -20px;
+  margin-top: -10px;
+  height: 327px;
+  width: auto;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
 .title.is-3 {
   line-height: 3.5vw;
 }
@@ -75,6 +93,23 @@ html {
   }
 
   @include mobile{
+    .bedrift_background-1 {
+      position: relative;
+      width: 214px;
+      height: 161px;
+      margin-top: 2px;
+    }
+    .bedrift_background-2 {
+      position: relative;
+      width: 293px;
+      height: 188px;
+      left: 29px;
+      bottom: 60px;
+    }
+    .bedrift_animation-1 {
+      position: relative;
+      bottom: 50px;
+    }
     .section{
       padding: 32px 32px;
 
@@ -84,7 +119,7 @@ html {
       }
       .title.is-2, h2 {
         line-height: 1.6rem;
-        font-size: 32px;
+        font-size: 28px;
       }
       .title.is-3, h3 {
         line-height: 1.5rem;
