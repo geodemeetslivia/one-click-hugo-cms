@@ -6,10 +6,12 @@ $warm-gray3:  #E7E1DC;
 $light-gray: #F2F2F2;
 $light-blue: #0099FE;
 $navy-blue: #9ED9FF;
+$yellow:  #FFD277;
 
 $nimberColors: (
 "primary": ($primary, $white),
 "secondary": ($secondary, $white),
+ "yellow": ( $yellow, $white),
 "blue": (#0D194E, #0D194E),
 "navy-blue":  ($navy-blue, $white),
 "light-blue":  ($light-blue, $white)
