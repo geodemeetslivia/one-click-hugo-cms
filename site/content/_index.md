@@ -7,7 +7,7 @@ intro:
   heading: En enklere,rimeligere og smartere frakttjeneste
   text: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
 title: "  Superenkel frakt for din bedrift"
-subtitle: Stort elle smått. Kort eller langt. Alt av frakt kan du bestille her.
+subtitle: Stort eller smått. Kort eller langt. Bestill alt av frakt her
 sections:
   - image: img/blog-flavor_wheel.jpg
     text: "Vi syntes det er dumt å ikke vite hva transporten vil koste før man
