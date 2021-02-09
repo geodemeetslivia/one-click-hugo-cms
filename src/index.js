@@ -69,7 +69,7 @@ bodymovin.loadAnimation({
 });
 bodymovin.loadAnimation({
   container: document.getElementById('bedrift_animation-2'), // Required
-  path: "img/animations/FraktBestiling_Laptop_With_BG.json", // Required
+  path: "img/animations/FraktBestiling_Laptop_No_BG.json", // Required
   renderer: 'svg', // Required
   loop: true, // Optional
   autoplay: true, // Optional
