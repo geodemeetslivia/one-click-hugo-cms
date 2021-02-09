@@ -24,6 +24,11 @@ h4{font-size: 1.8rem;}
 h5{font-size: 1.6rem;}
 h6 {font-size: 1rem;}
 
+.bedrift_animation-2 {
+  height: 331px;
+  margin: auto;
+}
+
 .bedrift_background-1 {
   background-image: url('/img/background_1.png');
   height: 278px;
@@ -51,6 +56,9 @@ h6 {font-size: 1rem;}
 .title.is-2 {
   line-height: 5.5vw;
 }
+.logo {
+  font-size: 3.5vw;
+}
 
 @import 'src/css/imports/_buttons.scss';
 @import 'src/css/imports/_typography.scss';
@@ -72,6 +80,15 @@ html {
   }
 
   @include mobile{
+    .navbar-burger {
+      height: 18.078125px;
+      width: 23px;
+
+    }
+    .logo {
+      font-size: 24px;
+      line-height: 28px;
+    }
     .section{
       &.has-background-secondary {
         padding-bottom: 64px;
@@ -88,8 +105,7 @@ html {
       position: relative;
       width: 293px;
       height: 188px;
-      bottom: 60px;
-      margin: auto;
+      margin: auto auto 40px auto;
     }
     .bedrift_animation-1 {
       position: relative;
@@ -120,10 +136,19 @@ html {
         word-break: break-all;
       }
     }
-    .navbar {padding: 28px 32px 28px 32px;}
+    .navbar-brand, .navbar-menu {padding: 28px 32px 28px 32px;}
     .footer {padding: 32px 32px 32px 32px;}
+    .is-size-5 {
+      font-size: 24px !important;
+    }
   }
   @include tablet-only {
+    .navbar-burger {
+      display: inline-table;
+      height: auto;
+      width: auto;
+      margin-top: 20px;
+    }
     .bedrift_background-2 {
       width: auto;
       height: 250px;
@@ -132,7 +157,7 @@ html {
       padding: 48px 48px;
     }
     .footer {padding: 60px 48px 40px 48px;}
-    .navbar {padding: 28px 48px 28px 48px;}
+    .navbar-brand, .navbar-menu {padding: 28px 48px 28px 48px;}
     h3, h5 {
       margin-top: 64px;
       margin-bottom:24px;
@@ -143,14 +168,14 @@ html {
       padding: 64px 64px;
     }
     .footer {padding: 60px 64px 40px 64px;}
-    .navbar {padding: 28px 64px 28px 64px;}
+    .navbar-brand, .navbar-menu {padding: 28px 64px 28px 64px;}
   }
   @include widescreen {
     .section {
       padding:80px 80px;
     }
     .footer {padding: 60px 80px 40px 80px;}
-    .navbar {padding: 28px 80px 28px 80px;}
+    .navbar-brand, .navbar-menu {padding: 28px 80px 28px 80px;}
     h3, h5 {
       margin-top: 64px;
       margin-bottom:24px;
@@ -162,7 +187,7 @@ html {
       padding:120px 120px;
     }
     .footer {padding: 60px 120px 40px 120px;}
-    .navbar {padding: 28px 120px 28px 120px;}
+    .navbar-brand, .navbar-menu {padding: 28px 120px 28px 120px;}
     .title.is-1, h1 {
       line-height: 86px;
       font-size: 96px;
@@ -182,7 +207,11 @@ html {
       margin-top: 98px;
       margin-bottom:24px;
     }
+    .logo {
+      font-size: 36px;
+    }
   }
+
 }
 
 @media (max-width: 768px) {

@@ -67,6 +67,17 @@ bodymovin.loadAnimation({
 
   }
 });
+bodymovin.loadAnimation({
+  container: document.getElementById('bedrift_animation-2'), // Required
+  path: "img/animations/FraktBestiling_Laptop_With_BG.json", // Required
+  renderer: 'svg', // Required
+  loop: true, // Optional
+  autoplay: true, // Optional
+  rendererSettings: {
+    progressiveLoad: true, // Boolean, only svg renderer, loads dom elements when needed. Might speed up initialization for large number of elements.
+
+  }
+});
 
 
 
