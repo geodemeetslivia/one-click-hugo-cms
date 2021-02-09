@@ -25,8 +25,8 @@ h5{font-size: 1.6rem;}
 h6 {font-size: 1rem;}
 
 .bedrift_animation-2 {
-  height: 331px;
-  margin: auto;
+  //height: 331px;
+  //margin: auto;
 }
 
 .bedrift_background-1 {
@@ -78,6 +78,10 @@ html {
   .title {
     word-break: normal;
   }
+  .bedrift_animation-2 {
+    position: relative;
+    left: 60px;
+  }
 
   @include mobile{
     .navbar-burger {
@@ -105,11 +109,18 @@ html {
       position: relative;
       width: 293px;
       height: 188px;
-      margin: auto auto 40px auto;
+      margin-bottom: 40px;
+      margin-left: auto;
+      margin-right: auto;
     }
     .bedrift_animation-1 {
       position: relative;
       bottom: 40px;
+    }
+    .bedrift_animation-2{
+      position: relative;
+      left: 0;
+      height: 154px;
     }
 
     .section{
@@ -151,7 +162,10 @@ html {
     }
     .bedrift_background-2 {
       width: auto;
-      height: 250px;
+      height: 194px;
+    }
+    .bedrift_animation-2 {
+      height: 194px;
     }
     .section {
       padding: 48px 48px;
@@ -169,8 +183,21 @@ html {
     }
     .footer {padding: 60px 64px 40px 64px;}
     .navbar-brand, .navbar-menu {padding: 28px 64px 28px 64px;}
+    .bedrift_animation-2 {
+      height: 286px;
+      left: 35px;
+    }
+    .bedrift_background-2 {
+      height: 286px;
+      left: 35px;
+    }
   }
   @include widescreen {
+    .bedrift_animation-2 {
+      position: relative;
+      height: 331px;
+      left: 60px;
+    }
     .section {
       padding:80px 80px;
     }
