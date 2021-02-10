@@ -121,6 +121,7 @@ html {
       position: relative;
       left: 0;
       height: 154px;
+      margin-bottom: 25px;
     }
 
     .section{
@@ -167,6 +168,10 @@ html {
     .bedrift_animation-2 {
       height: 194px;
     }
+    .bedrift_animation-1 {
+      position: relative;
+      left: 10px;
+    }
     .section {
       padding: 48px 48px;
     }
@@ -187,6 +192,11 @@ html {
       height: 286px;
       left: 35px;
     }
+    .bedrift_animation-1 {
+      position: relative;
+      bottom: 80px;
+      left: 40px;
+    }
     .bedrift_background-2 {
       height: 286px;
       left: 35px;
@@ -197,6 +207,11 @@ html {
       position: relative;
       height: 331px;
       left: 60px;
+    }
+    .bedrift_animation-1 {
+      position: relative;
+      bottom: 80px;
+      left: 40px;
     }
     .section {
       padding:80px 80px;
