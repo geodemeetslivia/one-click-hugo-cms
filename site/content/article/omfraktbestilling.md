@@ -1,14 +1,13 @@
 ---
 title: omfraktbestilling
 heading: Levering gjort enkelt
-subheading: Glade kunder gir mer salg. Tilbyr du hjemlevering til et presist
-  tidspunkt, er sjansen større for at kundene dine fortsetter å handle hos deg.
-  Det kan du tilby gjennom oss.
+subheading: Fraktbestilling.no er en bedriftsløsning levert av Nimber. Vårt mål
+  er å gjøre bestilling av frakt så enkelt som mulig.
 cta_text: ""
 image: ""
 topics: []
 ---
-Fraktbestilling.no er en bedriftsløsning levert av Nimber. Vårt mål er å gjøre bestilling av frakt så enkelt som mulig. Nimber ble etablert i 2012 og har bygd seg opp som en plattform som kan løse de fleste transportbehov. Denne plattformen er ikke like godt egnet for bedrifter som sender mye. Derfor har vi nå lansert en ny plattform for bedrifter. 
+Nimber ble etablert i 2012 og har bygd seg opp som en plattform som kan løse de fleste transportbehov. Denne plattformen er ikke like godt egnet for bedrifter som sender mye. Derfor har vi nå lansert en ny plattform for bedrifter. 
 
 Vårt mål er å gjøre ting enklere og ikke minst å gi forutsigbarhet til deg som bestiller, både hva gjelder pris men også leveringstid.
 
