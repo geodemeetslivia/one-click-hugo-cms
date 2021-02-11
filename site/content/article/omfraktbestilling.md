@@ -30,8 +30,6 @@ Vårt team består av personer med spisskompetanse og lang erfaring innen logist
 
 Vi har et eget tech team som utvikler vår plattform 
 
-> This is the best delivery service we have ever used
-
 **Partner og bringer nettverk**
 
 I vår plattform tilbyr vi standard leveranser med større nasjonale transportselskaper som Bring og Best Transport, samt lokale transportselskaper som har egne ruter og biler som kjører til forskjellige steder i Norge. I tillegg har vi vårt unike nettverk av selvstendige bringere fra Nimber.com plattformen.
