@@ -28,8 +28,6 @@ Du skal ha ett sted hvor du kan bestille transport for alle dine transportbehov.
 
 Vårt team består av personer med spisskompetanse og lang erfaring innen logistikk og digital tjenesteutvikling. Dette gjør oss i stand til å lage gode tekniske løsninger med fokus på plattformens brukere og deres behov. 
 
-Vi har et eget tech team som utvikler vår plattform 
-
 **Partner og bringer nettverk**
 
 I vår plattform tilbyr vi standard leveranser med større nasjonale transportselskaper som Bring og Best Transport, samt lokale transportselskaper som har egne ruter og biler som kjører til forskjellige steder i Norge. I tillegg har vi vårt unike nettverk av selvstendige bringere fra Nimber.com plattformen.
