@@ -215,6 +215,10 @@ html {
     }
     .section {
       padding:80px 80px;
+      &.is-hero-section{
+        padding-top: 24px;
+        padding-bottom: 24px;
+      }
     }
     .footer {padding: 60px 80px 40px 80px;}
     .navbar-brand, .navbar-menu {padding: 28px 80px 28px 80px;}
