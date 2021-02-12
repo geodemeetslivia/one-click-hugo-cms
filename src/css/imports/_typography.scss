@@ -1,6 +1,12 @@
 .content ul {
   list-style: none;
 }
+a{
+  &:hover {
+    text-decoration: underline;
+    color: white !important;
+  }
+}
 .is-1 {
   line-height: 72px;
   @include fullhd {
@@ -23,9 +29,7 @@
   font-size:250px;
   line-height: 250px;
 }
-a.has-text-underlined {
-  text-decoration: underline;
-}
+
 .is-white {
   color:white;
 }
