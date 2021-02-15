@@ -58,6 +58,11 @@ h6 {font-size: 1rem;}
 }
 .logo {
   font-size: 3.5vw;
+  color: black;
+  &:hover{
+    color: black;
+    text-decoration: none;
+  }
 }
 
 @import 'src/css/imports/_buttons.scss';
@@ -274,6 +279,12 @@ html {
   body {
     .navbar,.footer {
       background: rgba(255, 255, 255, 0.08);
+    }
+    .logo {
+      color: white;
+      &:hover {
+        color: white;
+      }
     }
     --text-color: white;
     --bkg-color: #121212;

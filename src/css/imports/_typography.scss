@@ -36,3 +36,10 @@ a{
 .has-vertical-align-text-bottom {
   vertical-align: text-bottom;
 }
+a {
+  &.has-decoration-none {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
