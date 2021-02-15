@@ -43,3 +43,9 @@ a {
     }
   }
 }
+.article {
+  a {color: black;
+    &:hover {
+      color: black;
+    }}
+}
