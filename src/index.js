@@ -27,6 +27,16 @@ if ($navbarBurgers.length > 0) {
     });
   });
 }
+let $tracking_links = Array.prototype.slice.call(document.querySelectorAll('.js-track-conversion'), 0);
+if ($tracking_links.length > 0) {
+  $tracking_links.forEach(function ($el) {
+    $el.addEventListener('click', function () {
+
+      gtag_report_conversion();
+    });
+  });
+
+}
 
 let $cardHeaderIcons = Array.prototype.slice.call(document.querySelectorAll('.card-header-icon'), 0);
 if ($cardHeaderIcons.length > 0) {
