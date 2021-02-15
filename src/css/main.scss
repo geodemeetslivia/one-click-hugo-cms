@@ -286,6 +286,15 @@ html {
         color: white;
       }
     }
+    .article {
+      a {
+        color: white;
+        &:hover {
+          color: white;
+        }
+      }
+    }
+
     --text-color: white;
     --bkg-color: #121212;
     background: black;
