@@ -51,13 +51,11 @@ a {
   }
 }
 p {
-  display: flex;
-  align-items: center;
   .icon {
     i {
       font-size: 0.62em;
       position:relative;
-      top: 2px;
+      bottom: 2px;
     }
   }
 }
