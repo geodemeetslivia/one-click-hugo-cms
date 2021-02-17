@@ -47,5 +47,17 @@ a {
   a {color: black;
     &:hover {
       color: black;
-    }}
+    }
+  }
+}
+p {
+  display: flex;
+  align-items: center;
+  .icon {
+    i {
+      font-size: 0.62em;
+      position:relative;
+      top: 2px;
+    }
+  }
 }
