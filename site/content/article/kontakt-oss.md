@@ -1,11 +1,11 @@
 ---
 title: Kontakt oss
-heading: Hjelp og kundeservice
-subheading: Kontakt oss gjerne om spørsmål som berører deg som bedrift.
+heading: Kontakt  oss
+subheading: Vi er her for å hjelpe.
 ---
-### Telefon: +47 22 34 30 41
-
 ### contact@nimber.com
+
+### Telefon: +47 22 34 30 41
 
 ### Postadresse
 
