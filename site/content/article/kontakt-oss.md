@@ -1,7 +1,7 @@
 ---
 title: Kontakt oss
-heading: Kontakt  oss
-subheading: Vi er her for å hjelpe.
+heading: Kontakt kundeservice
+subheading: Vi er her for å hjelpe deg.
 ---
 ### contact@nimber.com
 
