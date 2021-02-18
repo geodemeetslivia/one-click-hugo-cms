@@ -58,9 +58,9 @@ h6 {font-size: 1rem;}
 }
 .logo {
   font-size: 3.5vw;
-  color: black;
+  color: $black;
   &:hover{
-    color: black;
+    color: $black;
     text-decoration: none;
   }
 }
@@ -306,7 +306,7 @@ html {
       color: $navy-blue !important;
     }
     .title.is-2{
-      color: black !important;
+      color: $black !important;
     }
     .subtitle, .navbar-item a {
       color: white;
