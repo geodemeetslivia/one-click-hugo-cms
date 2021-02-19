@@ -24,6 +24,14 @@ h3{font-size: 3.5vw;line-height: 3.5vw;font-weight: 700;}
 h4{font-size: 1.8rem;}
 h5{font-size: 1.6rem;}
 h6 {font-size: 1rem;}
+.footer {
+  a {
+    color: $black;
+    &:hover {
+      color: $black;
+    }
+  }
+}
 .article {
   p{
     &:first-of-type {
@@ -214,7 +222,7 @@ html {
     .section {
       padding: 48px 48px;
     }
-    .footer {padding: 60px 48px 40px 48px;}
+    .footer {padding: 64px 48px 64px 48px;}
     .navbar-brand, .navbar-menu {padding: 28px 48px 28px 48px;}
     .article {
       padding-top: 80px;
@@ -233,7 +241,7 @@ html {
     .section {
       padding: 64px 64px;
     }
-    .footer {padding: 60px 64px 40px 64px;}
+    .footer {padding: 64px 64px 64px 64px;}
     .navbar-brand, .navbar-menu {padding: 28px 64px 28px 64px;}
     .bedrift_animation-2 {
       height: 286px;
@@ -278,7 +286,7 @@ html {
         padding-bottom: 24px;
       }
     }
-    .footer {padding: 60px 80px 40px 80px;}
+    .footer {padding: 64px 80px 64px 80px;}
     .navbar-brand, .navbar-menu {padding: 28px 80px 28px 80px;}
     .article {
       padding-top: 120px;
@@ -297,7 +305,7 @@ html {
     .section {
       padding:120px 120px;
     }
-    .footer {padding: 60px 120px 40px 120px;}
+    .footer {padding: 64px 120px 64px 120px;}
     .navbar-brand, .navbar-menu {padding: 28px 120px 28px 120px;}
     .title.is-1, h1 {
       line-height: 86px;
@@ -344,6 +352,7 @@ html {
   body {
     .navbar,.footer {
       background: rgba(255, 255, 255, 0.08);
+      color: white;
     }
     .logo {
       color: white;
@@ -351,7 +360,7 @@ html {
         color: white;
       }
     }
-    .article {
+    .article, .footer {
       a {
         color: white;
         &:hover {
