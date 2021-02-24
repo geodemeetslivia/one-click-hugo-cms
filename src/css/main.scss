@@ -18,9 +18,9 @@
   padding: 0;
 }
 
-h1{font-size: 5.7vw;line-height: 0.95;margin-bottom: 24px;font-weight: 600;}
+h1{font-size: 4.5vw;line-height: 0.95;margin-bottom: 24px;font-weight: 600;}
 h2{font-size: 5.5vw; line-height: 5.5vw;font-weight: 600;}
-h3{font-size: 3.5vw;line-height: 3.5vw;font-weight: 700;}
+h3{font-size: calc(20px + 0.25vw);line-height: 1.1;font-weight: 700;}
 h4{font-size: 1.8rem;}
 h5{font-size: 1.6rem;}
 h6 {font-size: 1rem;}
@@ -62,10 +62,10 @@ h6 {font-size: 1rem;}
   line-height: 3.5vw;
 }
 .title.is-1 {
-  line-height: 7.5vw;
+  line-height: 6vw;
 }
 .title.is-2 {
-  line-height: 5.5vw;
+  line-height: 4.5vw;
 }
 .logo {
   font-size: 3.5vw;
@@ -89,7 +89,6 @@ html {
   .is-marginless-top {
     margin-top: 0;
   }
-  font-size: 20px;
   word-break: normal;
   .title {
     word-break: normal;
@@ -117,7 +116,7 @@ html {
 
   @include mobile{
 
-
+    font-size: 18px;
     .navbar-burger {
       height: 18.078125px;
       width: 23px;
@@ -160,23 +159,33 @@ html {
       &.has-background-secondary {
         padding-bottom: 64px;
       }
-
-      .title.is-1, h1{
+      //Display
+      .title.is-1{
         line-height: 40px;
-        font-size: 42px;
+        font-size: 40px;
         margin-bottom: 12px;
       }
-      .title.is-2, h2 {
+      //Header 1
+      .title.is-2, h1 {
         line-height: 1.6rem;
-        font-size: 28px;
+        font-size: 36px;
       }
-      .title.is-3, h3 {
+      //Header 2
+      .title.is-3, h2 {
         line-height: 1.5rem;
         font-size: 28px;
       }
-      .is-7{
-        font-weight: normal !important;
+      //Header 3
+      h3 {
+        font-size: 20px;
+        line-height: 1.1;
       }
+      //Lead
+      .subtitle.is-7 {
+        font-size: 20px;
+        line-height: 1.25;
+      }
+
       &.article{
         padding-top: 80px;
         padding-bottom: 120px;
@@ -307,20 +316,39 @@ html {
     }
     .footer {padding: 64px 120px 64px 120px;}
     .navbar-brand, .navbar-menu {padding: 28px 120px 28px 120px;}
-    .title.is-1, h1 {
+
+
+    .logo {
+      font-size: 36px;
+    }
+  }
+
+  @media screen and (min-width: 1600px){
+    font-size: 22px;
+    //Display
+    .title.is-1 {
       line-height: 86px;
       font-size: 96px;
     }
-    .title.is-2, h2 {
-      line-height: 64px;
-      font-size: 64px;
+    //header 1
+    .title.is-2, h1 {
+      line-height: 72px;
+      font-size: 72px;
     }
-    .title.is-3, h3 {
+    //header 2
+    .title.is-3, h2 {
       line-height:48px;
       font-size: 48px;
     }
+    //header 3
+    h3 {
+      font-size: 26px;
+      line-height: 1.1;
+    }
+    //lead
     .subtitle.is-7 {
-      font-size: 22px;
+      font-size: 26px;
+      line-height: 1.25;
     }
     .article{
       h3, h5 {
@@ -331,9 +359,6 @@ html {
       }
     }
 
-    .logo {
-      font-size: 36px;
-    }
   }
 
 }

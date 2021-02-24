@@ -1,14 +1,16 @@
 $family-primary:'proxima-nova', sans-serif;
 $size-8: 0.8rem !default;
-$size-7: 1rem !default;
+$size-7: calc(20px + 0.25vw) !default;
 $size-6: 1.4rem !default;
 $size-5: 1.6rem !default;
 $size-4: 2.1rem !default;
-$size-3: 3.5vw !default;
-$size-2: 5.5vw !default;
-$size-1: 7.5vw !default;
+$size-3: calc(28px + 1vw) !default; //Header 2
+$size-2: 4.5vw !default;//Header 1
+$size-1: 6.5vw !default; //Display
+$body-font-size: calc(18px + 0.25vw);
+$body-line-height: 1.5;
 $title-color: #1d1d1f;
-$subtitle-line-height: 1.4rem;
+$subtitle-line-height: 1.25;
 $subtitle-negative-margin:0;
 $weight-normal: 400;
 $weight-bold: 700;
