@@ -2,6 +2,10 @@
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
   <body class="sans-serif">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-ML763SS"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <div class="main-container">
         {{ block "header" . }}{{ partial "nav" . }}{{end}}
         {{ block "main" . }}{{ end }}
