@@ -210,6 +210,17 @@ html {
       &.article{
         padding-top: 80px;
         padding-bottom: 120px;
+        .tile {
+          margin-bottom: 32px;
+        }
+        .cta-column {
+          width: 100%;
+          margin-bottom: 32px;
+          text-align: center;
+          .cta-paragraph {
+            width: 100%;
+          }
+        }
         p{
           &:first-of-type {
             margin-top: 12px;
