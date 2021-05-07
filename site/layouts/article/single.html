@@ -3,22 +3,52 @@
   <div class="section article">
     <div class="columns  is-marginless">
       <div class="column is-3">
+        <img  src="img/Vector.png">
+        <p>{{.cta_text}}</p>
+        <button class="is-small is-secondary">{{.cta_text}}</button>
       </div>
       <div class="column is-8">
         <h1 class="has-text-weight-semibold">{{.Params.heading}}</h1>
         <p class="subtitle is-7  has-text-weight-semibold">
           {{ .Params.subheading }}
         </p>
+        {{ if .Params.author }}
+          {{ range $index, $element := .Params.author }}
+            <article class="media">
+              <figure class="media-left">
+                <p class="image is-64x64">
+                  <img class="is-rounded" src="{{$element.authorpicture }}">
+                </p>
+              </figure>
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                   <small><strong>{{$element.authorname }}</strong></small>
+                    <br>
+                    <small class="has-text-light-gray">
+                      {{ dateFormat "02. January 2006" $element.date }}</small>
+                  </p>
+                </div>
+              </div>
+            </article>
+          {{ end }}
+        {{ end }}
         {{ if .Params.cta_text }}<a class="button is-primary" href="#">{{.Params.cta_text}}</a>{{ end }}
       </div>
       <div class="column is-1">
       </div>
     </div>
-
-    <div>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+    {{ if .Params.image }}
+    <div class="columns mt-large">
+      <div class="column is-3">
+      </div>
+      <div class="column is-8">
+        <img src="{{ .Params.image }}" class="image-header" alt="{{ .Title }}" />
+      </div>
+      <div class="column is-1">
+      </div>
     </div>
-
+    {{ end }}
     <div class="columns  is-marginless">
       <div class="column is-3">
       </div>
@@ -59,26 +89,19 @@
       <div class="column is-1">
       </div>
     </div>
-    <div class="columns">
-      <div class="column is-3">
-      </div>
-      <div class="column is-8">
-        <div class="columns">
-          {{ range $index, $element := .Params.Cards }}
-          <div class="column">
-            <div class="card">
-              <div class="card-image">
-                <figure class="image is-4by3">
-                  <img src="{{ .Params.image }}"/>
-                </figure>
-              </div>
+    <div class="columns is-variable">
+        {{ range $index, $element := .Params.Cards }}
+        <div class="column">
+          <div class="tile">
+            <div class="card-image">
+              <figure class="image">
+                <img src="{{ $element.image }}"/>
+              </figure>
+              <p><strong>{{$element.boldText}}</strong>&nbsp;<span class="has-text-light-gray">{{$element.text}}</span></p>
             </div>
           </div>
-          {{ end }}
         </div>
-      </div>
-      <div class="column is-1">
-      </div>
+        {{ end }}
     </div>
   </div>
 {{ end }}

@@ -70,6 +70,7 @@ export default class ArticlePreview extends React.Component {
                       <img src={image && getAsset(image)}/>
                     </figure>
                   </div>
+                  <p><strong>{boldText}</strong>&nbsp;{text}</p>
                 </div>
               </div>
             )}

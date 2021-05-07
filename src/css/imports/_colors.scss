@@ -3,6 +3,7 @@ $secondary:  #69A8ED;
 $white: #fff;
 $warm-gray:  #4D5051;
 $warm-gray3:  #E7E1DC;
+$text-gray: #6E6E6E;
 $light-gray: #F8F7F5;
 $light-blue: #0099FE;
 $navy-blue: #9ED9FF;
@@ -16,7 +17,8 @@ $nimberColors: (
  "yellow": ( $yellow, $white),
 "blue": (#111836, #111836),
 "navy-blue":  ($navy-blue, $white),
-"light-blue":  ($light-blue, $white)
+"light-blue":  ($light-blue, $white),
+ "light-gray": ($text-gray, $white)
 );
 
 $colors: mergeColorMaps($colors, $nimberColors)
