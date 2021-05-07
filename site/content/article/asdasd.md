@@ -4,6 +4,10 @@ heading: "Lorem ipsum dolor sit amet consectetur "
 subheading: Glade kunder gir mer salg. Tilbyr du hjemlevering til et presist
   tidspunkt, er sjansen større for at kundene dine fortsetter å handle hos deg.
   Det kan du tilby gjennom oss.
+author:
+  - date: 2021-05-07T10:00:31.880Z
+    author name: George
+    author picture: img/default-avatar-25x25-2x.png
 cta_text: ""
 cards:
   - image: img/screenshot-2021-05-03-at-4.50.09-pm.png
