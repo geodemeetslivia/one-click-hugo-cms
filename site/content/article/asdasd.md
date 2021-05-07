@@ -8,6 +8,8 @@ author:
   - date: 2021-05-07T10:00:31.880Z
     author name: George
     author picture: img/default-avatar-25x25-2x.png
+    authorpicture: img/default-avatar-25x25-2x.png
+    authorname: George
 cta_text: ""
 cards:
   - image: img/screenshot-2021-05-03-at-4.50.09-pm.png
