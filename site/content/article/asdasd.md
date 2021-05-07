@@ -11,6 +11,8 @@ author:
     authorpicture: img/ellipse-1.png
     authorname: George
 cta_text: Click here
+cta_paragraph: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+  officia deserunt mollit anim id est laborum.
 image: img/rectangle-11375.jpg
 topics:
   - title: Topic One is most important
