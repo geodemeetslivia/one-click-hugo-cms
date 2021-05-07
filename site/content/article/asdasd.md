@@ -27,7 +27,7 @@ cards:
       incididunt.
     boldText: Lorem Ipsum
     image: img/rectangle-11378.png
-  - image: img/screenshot-2021-05-03-at-4.50.09-pm.png
+  - image: img/rectangle-11376.png
     boldText: Lorem Ipsum
     text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
       incididunt.
