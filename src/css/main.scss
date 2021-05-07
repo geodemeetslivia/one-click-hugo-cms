@@ -34,6 +34,33 @@ small {font-size: 16px;}
   }
 }
 .article {
+  blockquote {
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+
+  }
+  blockquote p {
+    &:first-of-type{
+      font-size: 36px;
+      font-weight: 700;
+      line-height: 36px;
+      color: black;
+      &:before {
+        content: url(/img/quotes.png);
+        margin-right: 24px;
+        vertical-align: top;
+      }
+    }
+  }
+  blockquote p {
+    &:last-of-type{
+      color: #6E6E6E;
+      margin-left: 104px;
+      font-size: 18px;
+      margin-top: -40px;
+    }
+
+  }
   .cta-paragraph {
     font-size: 18px;
     width: 182px;
