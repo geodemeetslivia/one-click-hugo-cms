@@ -13,11 +13,17 @@ author:
 cta_text: ""
 cards:
   - image: img/screenshot-2021-05-03-at-4.50.09-pm.png
-    boldText: asdasd
-    text: asdasda
+    boldText: Lorem Ipsum
+    text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+      incididunt.
   - image: img/screenshot-2021-02-13-at-11.38.28-am.png
-    boldText: asdadsa
-    text: asdasdaa
+    boldText: Lorem Ipsum
+    text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+      incididunt.
+  - text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+      incididunt.
+    boldText: Lorem Ipsum
+    image: img/screenshot-2020-05-13-at-5.23.45-pm.png
 ---
 <!--(figmeta)eyJmaWxlS2V5IjoibUtwZDM3dm9DQjlReThFcmxCREZMVCIsInBhc3RlSUQiOjE3OTcxNjE1ODQsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)-->
 
