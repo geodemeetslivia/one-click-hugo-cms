@@ -12,6 +12,10 @@ author:
     authorname: George
 cta_text: ""
 image: img/rectangle-11375.jpg
+topics:
+  - title: Topic One is most important
+    text: This is really a very important topic. Let's dive into this and see what
+      we can do with.
 cards:
   - image: img/rectangle-11376.png
     boldText: Lorem Ipsum
