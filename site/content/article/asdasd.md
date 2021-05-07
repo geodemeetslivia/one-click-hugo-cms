@@ -9,7 +9,7 @@ author:
     author name: George
     author picture: img/default-avatar-25x25-2x.png
     authorpicture: img/ellipse-1.png
-    authorname: George
+    authorname: Magnus Nygren Syversen
 cta_text: Click here
 cta_paragraph: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
   officia deserunt mollit anim id est laborum.
@@ -27,7 +27,7 @@ cards:
       incididunt.
     boldText: Lorem Ipsum
     image: img/rectangle-11378.png
-  - image: img/screenshot-2021-05-03-at-4.50.09-pm.png
+  - image: img/rectangle-11376.png
     boldText: Lorem Ipsum
     text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
       incididunt.
