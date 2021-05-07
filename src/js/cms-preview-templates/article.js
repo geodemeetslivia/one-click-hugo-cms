@@ -9,6 +9,9 @@ export default class ArticlePreview extends React.Component {
     return <div className="section">
       <div className="columns">
         <div className="column is-3">
+          <img src="img/Vector.png"/>
+            <p>{entry.getIn(["data", "cta_text"])}</p>
+            <button className="button is-outlined is-small">{entry.getIn(["data", "cta_paragraph"])}</button>
         </div>
         <div className="column is-9">
           <h1
@@ -16,7 +19,6 @@ export default class ArticlePreview extends React.Component {
           <p className="subtitle is-7 has-text-weight-semibold">
             {entry.getIn(["data", "subheading"])}
           </p>
-          <a className="button is-primary" href="#">{entry.getIn(["data", "cta_text"])}</a>
         </div>
       </div>
 
@@ -51,9 +53,6 @@ export default class ArticlePreview extends React.Component {
             </div>
           </div>
           )}
-          <div className="mt-xlarge">
-            <a className="button is-primary" href="#">{entry.getIn(["data", "cta_text"])}</a>
-          </div>
 
         </div>
       </div>

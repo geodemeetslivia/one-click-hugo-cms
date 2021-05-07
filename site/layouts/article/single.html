@@ -3,9 +3,11 @@
   <div class="section article">
     <div class="columns  is-marginless">
       <div class="column is-3">
-        <img  src="img/Vector.png">
-        <p>{{.cta_text}}</p>
-        <button class="is-small is-secondary">{{.cta_text}}</button>
+        {{ if .Params.cta_text }}
+          <img  src="img/Vector.png">
+          <p class="cta-paragraph">{{.Params.cta_paragraph}}</p>
+          <button class="mt-standard button is-outlined">{{.Params.cta_text}}</button>
+        {{ end }}
       </div>
       <div class="column is-8">
         <h1 class="has-text-weight-semibold">{{.Params.heading}}</h1>
@@ -33,7 +35,6 @@
             </article>
           {{ end }}
         {{ end }}
-        {{ if .Params.cta_text }}<a class="button is-primary" href="#">{{.Params.cta_text}}</a>{{ end }}
       </div>
       <div class="column is-1">
       </div>
@@ -81,10 +82,6 @@
             </div>
           </div>
         {{ end }}
-        <div class="mt-xlarge">
-          {{ if .Params.cta_text }}<a class="button is-primary" href="#">{{.Params.cta_text}}</a>{{ end }}
-        </div>
-
       </div>
       <div class="column is-1">
       </div>
