@@ -2,8 +2,10 @@ import React from "react";
 export default class ArticlePreview extends React.Component {
   render() {
     const {entry, widgetFor, getAsset} = this.props;
-    const entryValues = entry.getIn(["data", "topics"]);
-    const values = entryValues ? entryValues.toJS() : [];
+    const topicValues = entry.getIn(["data", "topics"]);
+    const cardValues = entry.getIn(["data", "cards"]);
+    const values = topicValues ? topicValues.toJS() : [];
+    const card_values = cardValues ? cardValues.toJS() : [];
     return <div className="section">
       <div className="columns">
         <div className="column is-3">
@@ -53,6 +55,25 @@ export default class ArticlePreview extends React.Component {
             <a className="button is-primary" href="#">{entry.getIn(["data", "cta_text"])}</a>
           </div>
 
+        </div>
+      </div>
+      <div className="columns">
+        <div className="column is-3">
+        </div>
+        <div className="column is-9">
+          <div className="columns">
+            {card_values.map(({image, boldText, text}, i) =>
+              <div className="column">
+                <div className="card">
+                  <div className="card-image">
+                    <figure className="image is-4by3">
+                      <img src={image && getAsset(image)}/>
+                    </figure>
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
         </div>
       </div>
     </div>

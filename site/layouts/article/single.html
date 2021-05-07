@@ -59,5 +59,26 @@
       <div class="column is-1">
       </div>
     </div>
+    <div class="columns">
+      <div class="column is-3">
+      </div>
+      <div class="column is-8">
+        <div class="columns">
+          {{ range $index, $element := .Params.Cards }}
+          <div class="column">
+            <div class="card">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img src="{{ .Params.image }}"/>
+                </figure>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      <div class="column is-1">
+      </div>
+    </div>
   </div>
 {{ end }}
