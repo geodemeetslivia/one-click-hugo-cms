@@ -5,10 +5,10 @@ subheading: Glade kunder gir mer salg. Tilbyr du hjemlevering til et presist
   tidspunkt, er sjansen større for at kundene dine fortsetter å handle hos deg.
   Det kan du tilby gjennom oss.
 author:
-  - date: 2021-05-07T10:00:31.880Z
+  - date: 2021-05-07T10:42:28.956Z
     author name: George
     author picture: img/default-avatar-25x25-2x.png
-    authorpicture: img/52c8633b0761493b643802d8470bc51a.jpg
+    authorpicture: img/ellipse-1.png
     authorname: George
 cta_text: ""
 image: img/rectangle-11375.jpg
