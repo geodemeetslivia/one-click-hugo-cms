@@ -9,7 +9,7 @@ author:
     author name: George
     author picture: img/default-avatar-25x25-2x.png
     authorpicture: img/ellipse-1.png
-    authorname: George
+    authorname: Magnus Nygren Syversen
 cta_text: Click here
 cta_paragraph: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
   officia deserunt mollit anim id est laborum.
