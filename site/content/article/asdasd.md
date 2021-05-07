@@ -10,7 +10,7 @@ author:
     author picture: img/default-avatar-25x25-2x.png
     authorpicture: img/ellipse-1.png
     authorname: George
-cta_text: ""
+cta_text: Click here
 image: img/rectangle-11375.jpg
 topics:
   - title: Topic One is most important
