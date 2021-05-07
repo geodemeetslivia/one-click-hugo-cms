@@ -11,6 +11,7 @@ author:
     authorpicture: img/52c8633b0761493b643802d8470bc51a.jpg
     authorname: George
 cta_text: ""
+image: img/rectangle-11375.jpg
 cards:
   - image: img/screenshot-2021-05-03-at-4.50.09-pm.png
     boldText: Lorem Ipsum
