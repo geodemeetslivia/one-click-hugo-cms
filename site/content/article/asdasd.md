@@ -17,10 +17,6 @@ topics:
     text: This is really a very important topic. Let's dive into this and see what
       we can do with.
 cards:
-  - image: img/rectangle-11376.png
-    boldText: Lorem Ipsum
-    text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-      incididunt.
   - image: img/rectangle-11377.png
     boldText: Lorem Ipsum
     text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -29,5 +25,9 @@ cards:
       incididunt.
     boldText: Lorem Ipsum
     image: img/rectangle-11378.png
+  - image: img/screenshot-2021-05-03-at-4.50.09-pm.png
+    boldText: Lorem Ipsum
+    text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+      incididunt.
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
