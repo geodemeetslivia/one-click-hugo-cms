@@ -13,9 +13,12 @@ cta_text: Click here
 cta_paragraph: "Bestill levering av møbler\t"
 image: img/rectangle-11375.jpg
 topics:
-  - title: Topic One is most important
-    text: This is really a very important topic. Let's dive into this and see what
-      we can do with.
+  - title: Tilleggstjenestert
+    text: |-
+      * Innbæring med to mann
+      * Retur
+      * Montering
+      * Retur av emballasje
 cards:
   - text: Enkel bestilling, rask levering og konkurransedyktige priser.
     boldText: Sende pakke
@@ -63,12 +66,5 @@ Bilene våre er i tillegg utstyrt med alt nødvendig monterings- og installasjon
 Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker å få varen levert. Når vi mottar bestillingen sender vi ut en melding til mottaker, slik at de kan velge en dato og et tidspunkt som passer for dem.
 
 Som en del av tilbudet vil vår sjåfør bære inn møblene sammen med mottaker, dersom det ikke er bestilt innbæring med to mann. Dette er en av flere tilleggstjenester vi tilbyr.
-
-### Tilleggstjenester
-
-* Innbæring med to mann
-* Retur
-* Montering
-* Retur av emballasje
 
 >
