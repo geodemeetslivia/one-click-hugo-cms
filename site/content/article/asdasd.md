@@ -1,9 +1,8 @@
 ---
-title: "Lorem ipsum dolor sit amet consectetur "
-heading: "Lorem ipsum dolor sit amet consectetur "
-subheading: Glade kunder gir mer salg. Tilbyr du hjemlevering til et presist
-  tidspunkt, er sjansen større for at kundene dine fortsetter å handle hos deg.
-  Det kan du tilby gjennom oss.
+title: Møbeltransport
+heading: Møbeltransport
+subheading: Alle som har vært med på å bære en sofa opp fire etasjer i en gammel
+  bygård uten heis vet at det å transportere møbler kan være utfordrende.
 author:
   - date: 2021-05-07T10:42:28.956Z
     author name: George
@@ -19,21 +18,51 @@ topics:
     text: This is really a very important topic. Let's dive into this and see what
       we can do with.
 cards:
-  - image: img/rectangle-11377.png
+  - text: Enkel bestilling, rask levering og konkurransedyktige priser.
     boldText: Sende pakke
-    text: Enkel bestilling, rask levering og konkurransedyktige priser.
-  - text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-      incididunt.
-    boldText: Lorem Ipsum
     image: img/rectangle-11378.png
   - image: img/rectangle-11376.png
-    boldText: Lorem Ipsum
-    text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-      incididunt.
+    boldText: Fraktavtale
+    text: Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
+  - boldText: Ekspresstjenester
+    text: Levering samme dag på forsendelser opp til 3,5 meter lengde og ett tonn i
+      vekt.
+    image: img/adobestock_236460380_preview.jpeg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
+Alle som har vært med på å bære en sofa opp fire etasjer i en gammel bygård uten heis vet at det å transportere møbler kan være utfordrende.
+
+Møbler kommer i alle former og fasonger. De er ofte tunge og uhåndterligere, og har som regel høy verdi. Dette stiller særskilte krav til frakt og levering, og bør håndteres av personer med riktig kompetanse og erfaring.
+
+## Stort nettverk av kompetente aktører
+
+Nimber, selskapet bak Fraktbestilling.no, har lang erfaring med møbelleveranser, både for bedrifter og mellom privatpersoner. 
+
+Vi har et stort nettverk av kompetente transportfirmaer som transporterer møbler rundt om i hele Norge, og har lagt ned både tid og ressurser i å finne de beste samarbeidspartnerne for å sikre at dine møbler blir hentet, fraktet og levert til dine kunder til rett tid – og i perfekt stand.
+
+## Trygg og pålitelig levering
+
+Bilene vi bruker for å frakte og levere møbler er utstyrt med tepper, lastestropper og alt annet som behøves for å sikre at dine møbler behandles på en trygg og forsiktig måte.
+
+Alle møbler er forsvarlig sikret under transporten, og våre erfarne ansatte sørger for at leveransen skjer uten skader og andre problemer.
+
+Bilene våre er i tillegg utstyrt med alt nødvendig monterings- og installasjonsutstyr – og vi kan derfor tilby dette som tilleggstjenester.
+
+Kontakt oss for mer informasjon \*link til lead-skjema\*
+
+### Transport av møbler med Fraktbestilling.no
+
+Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker å få varen levert. Når vi mottar bestillingen sender vi ut en melding til mottaker, slik at de kan velge en dato og et tidspunkt som passer for dem.
+
+Som en del av tilbudet vil vår sjåfør bære inn møblene sammen med mottaker, dersom det ikke er bestilt innbæring med to mann. Dette er en av flere tilleggstjenester vi tilbyr.
+
+#### Tilleggstjenester
+
+* Innbæring med to mann
+* Retur
+* Montering
+* Retur av emballasje
 
 > This is a quote
 >
