@@ -3,12 +3,7 @@ title: Møbeltransport
 heading: Møbeltransport
 subheading: Alle som har vært med på å bære en sofa opp fire etasjer i en gammel
   bygård uten heis vet at det å transportere møbler kan være utfordrende.
-author:
-  - date: 2021-05-07T10:42:28.956Z
-    author name: George
-    author picture: img/default-avatar-25x25-2x.png
-    authorpicture: img/ellipse-1.png
-    authorname: Magnus Nygren Syversen
+author: []
 cta_text: Click here
 cta_paragraph: "Bestill levering av møbler\t"
 image: img/rectangle-11375.jpg
