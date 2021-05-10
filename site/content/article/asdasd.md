@@ -54,9 +54,15 @@ Alle møbler er forsvarlig sikret under transporten, og våre erfarne ansatte s�
 
 
 
+> Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker å få varen levert
+
+
+
+
+
 Bilene våre er i tillegg utstyrt med alt nødvendig monterings- og installasjonsutstyr – og vi kan derfor tilby dette som tilleggstjenester.
 
-Kontakt oss for mer informasjon \*link til lead-skjema\*
+
 
 ### Transport av møbler med Fraktbestilling.no
 
@@ -71,6 +77,4 @@ Som en del av tilbudet vil vår sjåfør bære inn møblene sammen med mottaker,
 * Montering
 * Retur av emballasje
 
-> This is a quote
 >
-> quote master
