@@ -13,12 +13,14 @@ cta_text: Click here
 cta_paragraph: "Bestill levering av møbler\t"
 image: img/rectangle-11375.jpg
 topics:
-  - title: Tilleggstjenester
-    text: |-
-      Innbæring med to mann
-      Retur
-      Montering
-      Retur av emballasje
+  - title: Innbæring med to mann
+    text: Lorem ipsum dolor
+  - title: Retur
+    text: Lorem ipsum dolor
+  - title: Montering
+    text: Lorem ipsum dolor
+  - title: Retur av emballasje
+    text: Lorem ipsum dolor
 cards:
   - text: Enkel bestilling, rask levering og konkurransedyktige priser.
     boldText: Sende pakke
@@ -65,4 +67,4 @@ Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker �
 
 Som en del av tilbudet vil vår sjåfør bære inn møblene sammen med mottaker, dersom det ikke er bestilt innbæring med to mann. Dette er en av flere tilleggstjenester vi tilbyr.
 
->
+### Tillegstjenster
