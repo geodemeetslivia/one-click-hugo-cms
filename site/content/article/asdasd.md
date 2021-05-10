@@ -10,7 +10,7 @@ author:
     authorpicture: img/ellipse-1.png
     authorname: Magnus Nygren Syversen
 cta_text: Click here
-cta_paragraph: Kontakt en av våre konsulenter
+cta_paragraph: "Bestill levering av møbler\t"
 image: img/rectangle-11375.jpg
 topics:
   - title: Topic One is most important
