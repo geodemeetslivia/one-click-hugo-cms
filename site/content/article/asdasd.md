@@ -28,12 +28,6 @@ cards:
       vekt.
     image: img/adobestock_236460380_preview.jpeg
 ---
-
-
-Alle som har vært med på å bære en sofa opp fire etasjer i en gammel bygård uten heis vet at det å transportere møbler kan være utfordrende.
-
-
-
 Møbler kommer i alle former og fasonger. De er ofte tunge og uhåndterligere, og har som regel høy verdi. Dette stiller særskilte krav til frakt og levering, og bør håndteres av personer med riktig kompetanse og erfaring.
 
 ### Stort nettverk av kompetente aktører
