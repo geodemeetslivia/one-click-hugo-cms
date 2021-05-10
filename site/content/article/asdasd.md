@@ -47,6 +47,8 @@ Alle møbler er forsvarlig sikret under transporten, og våre erfarne ansatte s�
 
 
 > Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker å få varen levert
+>
+> levert
 
 
 
@@ -61,5 +63,9 @@ Bilene våre er i tillegg utstyrt med alt nødvendig monterings- og installasjon
 Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker å få varen levert. Når vi mottar bestillingen sender vi ut en melding til mottaker, slik at de kan velge en dato og et tidspunkt som passer for dem.
 
 Som en del av tilbudet vil vår sjåfør bære inn møblene sammen med mottaker, dersom det ikke er bestilt innbæring med to mann. Dette er en av flere tilleggstjenester vi tilbyr.
+
+
+
+[Kontakt oss for mer informasjon](www.test.no)
 
 #### Tilleggstjenester
