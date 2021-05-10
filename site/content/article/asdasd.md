@@ -13,12 +13,12 @@ cta_text: Click here
 cta_paragraph: "Bestill levering av møbler\t"
 image: img/rectangle-11375.jpg
 topics:
-  - title: Tilleggstjenestert
+  - title: Tilleggstjenester
     text: |-
-      * Innbæring med to mann
-      * Retur
-      * Montering
-      * Retur av emballasje
+      Innbæring med to mann
+      Retur
+      Montering
+      Retur av emballasje
 cards:
   - text: Enkel bestilling, rask levering og konkurransedyktige priser.
     boldText: Sende pakke
