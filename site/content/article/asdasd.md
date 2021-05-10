@@ -49,8 +49,6 @@ Alle møbler er forsvarlig sikret under transporten, og våre erfarne ansatte s�
 
 
 > Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker å få varen levert
->
-> jj
 
 
 
