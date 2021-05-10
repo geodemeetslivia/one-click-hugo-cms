@@ -10,8 +10,7 @@ author:
     authorpicture: img/ellipse-1.png
     authorname: Magnus Nygren Syversen
 cta_text: Click here
-cta_paragraph: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-  officia deserunt mollit anim id est laborum.
+cta_paragraph: Kontakt en av våre konsulenter
 image: img/rectangle-11375.jpg
 topics:
   - title: Topic One is most important
@@ -35,13 +34,13 @@ Alle som har vært med på å bære en sofa opp fire etasjer i en gammel bygård
 
 Møbler kommer i alle former og fasonger. De er ofte tunge og uhåndterligere, og har som regel høy verdi. Dette stiller særskilte krav til frakt og levering, og bør håndteres av personer med riktig kompetanse og erfaring.
 
-## Stort nettverk av kompetente aktører
+### Stort nettverk av kompetente aktører
 
 Nimber, selskapet bak Fraktbestilling.no, har lang erfaring med møbelleveranser, både for bedrifter og mellom privatpersoner. 
 
 Vi har et stort nettverk av kompetente transportfirmaer som transporterer møbler rundt om i hele Norge, og har lagt ned både tid og ressurser i å finne de beste samarbeidspartnerne for å sikre at dine møbler blir hentet, fraktet og levert til dine kunder til rett tid – og i perfekt stand.
 
-## Trygg og pålitelig levering
+### Trygg og pålitelig levering
 
 Bilene vi bruker for å frakte og levere møbler er utstyrt med tepper, lastestropper og alt annet som behøves for å sikre at dine møbler behandles på en trygg og forsiktig måte.
 
@@ -57,7 +56,7 @@ Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker �
 
 Som en del av tilbudet vil vår sjåfør bære inn møblene sammen med mottaker, dersom det ikke er bestilt innbæring med to mann. Dette er en av flere tilleggstjenester vi tilbyr.
 
-#### Tilleggstjenester
+### Tilleggstjenester
 
 * Innbæring med to mann
 * Retur
