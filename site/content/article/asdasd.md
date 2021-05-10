@@ -20,9 +20,8 @@ topics:
       we can do with.
 cards:
   - image: img/rectangle-11377.png
-    boldText: Lorem Ipsum
-    text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-      incididunt.
+    boldText: Sende pakke
+    text: Enkel bestilling, rask levering og konkurransedyktige priser.
   - text: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
       incididunt.
     boldText: Lorem Ipsum
