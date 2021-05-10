@@ -37,8 +37,6 @@ Møbler kommer i alle former og fasonger. De er ofte tunge og uhåndterligere, o
 
 Nimber, selskapet bak Fraktbestilling.no, har lang erfaring med møbelleveranser, både for bedrifter og mellom privatpersoner. 
 
-
-
 Vi har et stort nettverk av kompetente transportfirmaer som transporterer møbler rundt om i hele Norge, og har lagt ned både tid og ressurser i å finne de beste samarbeidspartnerne for å sikre at dine møbler blir hentet, fraktet og levert til dine kunder til rett tid – og i perfekt stand.
 
 ### Trygg og pålitelig levering
