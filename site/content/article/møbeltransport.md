@@ -4,21 +4,23 @@ heading: Møbeltransport
 subheading: Alle som har vært med på å bære en sofa opp fire etasjer i en gammel
   bygård uten heis vet at det å transportere møbler kan være utfordrende.
 author: []
-cta_link: https://app.fraktbestilling.no
-cta_icon: img/Vector.png
 cta_text: Order frakt
 cta_paragraph: "Bestill levering av møbler\t"
 image: img/rectangle-11375.jpg
-topicstitle: Tilleggstjenester
 topics:
   - title: Innbæring med to mann
-    text: Lorem ipsum dolor
+    text: En ekstra person blir med i bilen slik at du kan ta deg en kaffekopp og se
+      på varene blir båret inn hos deg. Ganske tilfredstillende, eller hva?
   - title: Retur
-    text: Lorem ipsum dolor
+    text: Passet ikke møbelet? Ikke helt fornøyd? Ikke noe problem. Vi tar det med
+      tilbake lageret eller butikken. Enkelt og greit.
   - title: Montering
-    text: Lorem ipsum dolor
+    text: Riktig verktøy er med på bilen, og vi kan installere møblene for deg.
+      Dette er vel og merke en enkel montering, ved større jobber og
+      installasjoner ta kontakt med oss.
   - title: Retur av emballasje
-    text: Lorem ipsum dolor
+    text: Store pappesker, isopor og plast tar ofte opp unødig plass. La oss ta med
+      dette i retur. Emballasjen blir selvfølgelig kildesortert.
 cards:
   - text: Enkel bestilling, rask levering og konkurransedyktige priser.
     boldText: Sende pakke
@@ -33,6 +35,9 @@ cards:
       vekt.
     image: img/adobestock_236460380_preview.jpeg
     link: https://fraktbestilling.no/login
+cta_icon: img/Vector.png
+cta_link: https://app.fraktbestilling.no
+topicstitle: Tilleggstjenester
 ---
 Møbler kommer i alle former og fasonger. De er ofte tunge og uhåndterligere, og har som regel høy verdi. Dette stiller særskilte krav til frakt og levering, og bør håndteres av personer med riktig kompetanse og erfaring.
 
