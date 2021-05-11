@@ -36,7 +36,10 @@ small {font-size: 16px;}
 .article {
   blockquote {
     margin: 1.5em 10px;
-    padding: 0.5em 10px;
+    padding: 0 10px;
+    background-image: url(/img/quotes.png);
+    background-position: middle left;
+    background-repeat: no-repeat;
 
   }
   blockquote p {
@@ -45,19 +48,17 @@ small {font-size: 16px;}
       font-weight: 700;
       line-height: 36px;
       color: black;
-      &:before {
-        content: url(/img/quotes.png);
-        margin-right: 24px;
-        vertical-align: top;
-      }
+      margin-top: 0;
+      margin-left: 80px;
+      text-align: justify;
+
     }
   }
   blockquote p {
-    &:last-of-type{
+    &:nth-of-type(2){
       color: #6E6E6E;
-      margin-left: 104px;
+      margin-left: 80px;
       font-size: 18px;
-      margin-top: -40px;
     }
 
   }

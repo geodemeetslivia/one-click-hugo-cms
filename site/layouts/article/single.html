@@ -16,7 +16,7 @@
         </p>
         {{ if .Params.author }}
           {{ range $index, $element := .Params.author }}
-            <article class="media">
+            <article class="media mb-large">
               <figure class="media-left">
                 <p class="image is-64x64">
                   <img class="is-rounded" src="{{$element.authorpicture }}">
@@ -40,7 +40,7 @@
       </div>
     </div>
     {{ if .Params.image }}
-    <div class="columns mt-large">
+    <div class="columns">
       <div class="column is-3">
       </div>
       <div class="column is-8">
@@ -63,12 +63,13 @@
       <div class="column is-3">
       </div>
       <div class="column is-8">
+        <h3>{{.Params.TopicsTitle}}</h3>
         {{ range $index, $element := .Params.Topics }}
           <div class="card">
             <header class="card-header">
-              <p class="card-header-title">
+              <span class="card-header-title">
                 {{$element.title}}
-              </p>
+              </span>
               <span class="card-header-icon" aria-label="more options" data-target="card-content-{{$index}}">
                 <span class="icon">
                   <i class="fal fa-plus" aria-hidden="true"></i>
