@@ -4,9 +4,9 @@
     <div class="columns  is-marginless">
       <div class="column is-3 cta-column" >
         {{ if .Params.cta_text }}
-          <img  src="img/Vector.png">
+          <img src="{{.Params.cta_icon}}">
           <p class="cta-paragraph">{{.Params.cta_paragraph}}</p>
-          <button class="mt-standard button is-outlined">{{.Params.cta_text}}</button>
+          <a href="{{.Params.cta_link}}" class="mt-standard button is-outlined">{{.Params.cta_text}}</a>
         {{ end }}
       </div>
       <div class="column is-8">
