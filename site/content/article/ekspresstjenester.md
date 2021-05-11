@@ -4,7 +4,7 @@ heading: Ekspresstjenester
 subheading: kunder i områdene mellom Oslo og Skien, og jobber kontinuerlig med å
   utvide dekningsområdet for våre ekspresstjenester.
 ---
-## Henting og levering i ekspressfart
+### Henting og levering i ekspressfart
 
 Velger du våre ekspresstjenester vil kunder i utvalgte områder motta sine varer allerede samme dag som de bestiller dem. Du kan bestille levering samme dag for alle forsendelser opp til 3,5 meter i lengde, med en maksvekt på ett tonn.
 
