@@ -7,6 +7,7 @@ author: []
 cta_text: Click here
 cta_paragraph: "Bestill levering av møbler\t"
 image: img/rectangle-11375.jpg
+topicstitle: Tilleggstjenester
 topics:
   - title: Innbæring med to mann
     text: Lorem ipsum dolor
@@ -40,23 +41,13 @@ Vi har et stort nettverk av kompetente transportfirmaer som transporterer møble
 
 Bilene vi bruker for å frakte og levere møbler er utstyrt med tepper, lastestropper og alt annet som behøves for å sikre at dine møbler behandles på en trygg og forsiktig måte.
 
-
-
 Alle møbler er forsvarlig sikret under transporten, og våre erfarne ansatte sørger for at leveransen skjer uten skader og andre problemer.
-
-
 
 > Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker å få varen levert
 >
 > levert
 
-
-
-
-
 Bilene våre er i tillegg utstyrt med alt nødvendig monterings- og installasjonsutstyr – og vi kan derfor tilby dette som tilleggstjenester.
-
-
 
 ### Transport av møbler med Fraktbestilling.no
 
@@ -64,8 +55,4 @@ Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker �
 
 Som en del av tilbudet vil vår sjåfør bære inn møblene sammen med mottaker, dersom det ikke er bestilt innbæring med to mann. Dette er en av flere tilleggstjenester vi tilbyr.
 
-
-
 [Kontakt oss for mer informasjon](www.test.no)
-
-#### Tilleggstjenester
