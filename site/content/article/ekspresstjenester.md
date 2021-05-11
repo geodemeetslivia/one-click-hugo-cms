@@ -3,6 +3,8 @@ title: Ekspresstjenester
 heading: Ekspresstjenester
 subheading: kunder i områdene mellom Oslo og Skien, og jobber kontinuerlig med å
   utvide dekningsområdet for våre ekspresstjenester.
+cta_text: Bestill ekspresslevering
+cta_paragraph: Cta
 ---
 ### Henting og levering i ekspressfart
 
