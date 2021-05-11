@@ -34,6 +34,9 @@ small {font-size: 16px;}
   }
 }
 .article {
+  .cover {
+    object-fit: cover;
+  }
   blockquote {
     margin: 1.5em 10px;
     padding: 0 10px;
@@ -50,7 +53,6 @@ small {font-size: 16px;}
       color: black;
       margin-top: 0;
       margin-left: 80px;
-      text-align: justify;
 
     }
   }
@@ -160,6 +162,9 @@ html {
         margin-top: 0
       }
     }
+    .sticky {
+      position: fixed;
+    }
 
   }
 
@@ -248,6 +253,9 @@ html {
           .cta-paragraph {
             width: 100%;
           }
+        }
+        .sticky {
+          display: none;
         }
         p{
           &:first-of-type {

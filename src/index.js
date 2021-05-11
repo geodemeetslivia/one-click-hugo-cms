@@ -38,6 +38,25 @@ if ($tracking_links.length > 0) {
 
 }
 
+
+window.addEventListener("scroll", function(e) {
+  const lastKnownScrollPosition = window.scrollY
+  const cardsContent = document.querySelector("#cards")
+  const $sticky = Array.prototype.slice.call(document.querySelectorAll(".sticky"), 0)
+
+  if (lastKnownScrollPosition > cardsContent.offsetTop - cardsContent.offsetHeight -100) {
+    if ($sticky.length > 0) {
+      $sticky[0].classList.add("is-hidden");
+    }
+  }
+else {
+    if ($sticky.length > 0) {
+      $sticky[0].classList.remove("is-hidden");
+    }
+  }
+});
+
+
 let $cardHeaderIcons = Array.prototype.slice.call(document.querySelectorAll('.card-header-icon'), 0);
 if ($cardHeaderIcons.length > 0) {
 
