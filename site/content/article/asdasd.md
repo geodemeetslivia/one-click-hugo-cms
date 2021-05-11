@@ -4,7 +4,9 @@ heading: Møbeltransport
 subheading: Alle som har vært med på å bære en sofa opp fire etasjer i en gammel
   bygård uten heis vet at det å transportere møbler kan være utfordrende.
 author: []
-cta_text: Click here
+cta_link: https://app.fraktbestilling.no
+cta_icon: img/Vector.png
+cta_text: Order frakt
 cta_paragraph: "Bestill levering av møbler\t"
 image: img/rectangle-11375.jpg
 topicstitle: Tilleggstjenester
