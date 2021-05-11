@@ -1,5 +1,5 @@
 ---
-title: omfraktbestilling
+title: Omfraktbestilling
 heading: Levering gjort enkelt
 subheading: Fraktbestilling.no er en bedriftsløsning levert av Nimber. Vårt mål
   er å gjøre bestilling av frakt så enkelt som mulig.
