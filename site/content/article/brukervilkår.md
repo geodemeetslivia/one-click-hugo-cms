@@ -1,5 +1,5 @@
 ---
-title: brukervilkar
+title: Brukervilkar
 heading: Fraktbestillings generelle brukervilkår
 subheading: For at en leveranse skal kunne gjennomføres på en forsvarlig måte,
   er det viktig at oppdragsgivere gjør seg kjent med hvilke regler som gjelder.
