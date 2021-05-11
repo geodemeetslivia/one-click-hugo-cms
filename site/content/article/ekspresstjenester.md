@@ -24,3 +24,16 @@ Ekspresstilbudet gjelder for husstander i:
 * Skien
 
 Har du behov for ekspresslevering utenfor disse områdene? Ta kontakt med oss, så finner vi en løsning for å hjelpe deg!
+
+### Lokale budtjenester
+
+I tillegg til ekspresslevering tilbyr vi også budtjenester lokalt i de overnevnte områdene, samt i sentrale deler av Østfold.
+
+Dersom du bestiller budtjenester gjennom Fraktbestilling.no kan du velge mellom to alternativer:
+
+* 3-timers bud
+* 6-timers bud 
+
+Alle budtjenester leveres gjennom vårt nettverk av erfarne og pålitelige samarbeidspartnere.
+
+**Velg en av våre budtjenester \*link til registrering\***
