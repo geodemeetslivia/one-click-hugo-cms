@@ -6,7 +6,7 @@ subheading: Alle som har vært med på å bære en sofa opp fire etasjer i en ga
 author: []
 cta_link: https://app.fraktbestilling.no
 cta_icon: img/Vector.png
-cta_text: Order frakt
+cta_text: Bestill frakt
 cta_paragraph: "Bestill levering av møbler\t"
 image: img/rectangle-11375.jpg
 topicstitle: Tilleggstjenester
