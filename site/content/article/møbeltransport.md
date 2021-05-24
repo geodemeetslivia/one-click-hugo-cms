@@ -1,12 +1,15 @@
 ---
 title: Møbeltransport
-heading: Møbeltransport
+heading: Din pålitelige partner på møbeltransport
 subheading: Alle som har vært med på å bære en sofa opp fire etasjer i en gammel
   bygård uten heis vet at det å transportere møbler kan være utfordrende.
 author: []
-cta_text: Order frakt
+cta_link: https://app.fraktbestilling.no
+cta_icon: img/truck-couch.png
+cta_text: Bestill frakt
 cta_paragraph: "Bestill levering av møbler\t"
 image: img/rectangle-11375.jpg
+topicstitle: Tilleggstjenester
 topics:
   - title: Innbæring med to mann
     text: En ekstra person blir med i bilen slik at du kan ta deg en kaffekopp og se
@@ -35,9 +38,6 @@ cards:
       vekt.
     image: img/adobestock_236460380_preview.jpeg
     link: https://fraktbestilling.no/login
-cta_icon: img/Vector.png
-cta_link: https://app.fraktbestilling.no
-topicstitle: Tilleggstjenester
 ---
 Møbler kommer i alle former og fasonger. De er ofte tunge og uhåndterligere, og har som regel høy verdi. Dette stiller særskilte krav til frakt og levering, og bør håndteres av personer med riktig kompetanse og erfaring.
 
