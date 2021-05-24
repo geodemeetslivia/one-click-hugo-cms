@@ -67,6 +67,9 @@ if ($cardHeaderIcons.length > 0) {
       // Get the target from the "data-target" attribute
       let target = $el.dataset.target;
       let $target = document.getElementById(target);
+      let $icon = $el.querySelector('i');
+      $icon.classList.toggle('fa-times');
+      $el.parentElement.querySelector('.card-header-title').classList.toggle('has-text-weight-bold');
 
       // Toggle visibility
       $target.classList.toggle('is-hidden');
