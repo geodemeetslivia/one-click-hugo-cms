@@ -98,15 +98,16 @@
       </div>
     </div>
     {{ end }}
-    <div class="columns is-variable mt-xlarge" id="cards">
+    <div class="columns is-variable mt-large" id="cards">
         {{ range $index, $element := .Params.Cards }}
         <div class="column">
           <div class="tile">
             <div class="card-image">
-              <figure class="image">
+
+              <p><a href="{{$element.link}}">
                 <img src="{{ $element.image }}" class="cover"/>
-              </figure>
-              <p><a href="{{$element.link}}"><strong>{{$element.boldText}}</strong>&nbsp;<span class="has-text-light-gray">{{$element.text}}</span></a></p>
+                <strong>{{$element.boldText}}</strong>&nbsp;
+                <span class="has-text-light-gray">{{$element.text}}</span></a></p>
             </div>
           </div>
         </div>
