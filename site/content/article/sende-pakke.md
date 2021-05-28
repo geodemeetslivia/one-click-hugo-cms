@@ -3,8 +3,8 @@ title: Sende pakke?
 heading: Sende pakke?
 subheading: Hvorfor skal små og mellomstore bedrifter betale mer for å sende en
   pakke enn de store selskapene?
-cta_text: Kontakt en av våre konsulenter
-cta_paragraph: CTA
+cta_text: Kontakt
+cta_paragraph: Kontakt en av våre konsulenter
 image: img/dsc_0726-kopi.jpg
 topicstitle: Test
 ---
