@@ -3,8 +3,9 @@ title: Sende pakke?
 heading: Sende pakke?
 subheading: Hvorfor skal små og mellomstore bedrifter betale mer for å sende en
   pakke enn de store selskapene?
-cta_text: Teste løsningen
+cta_text: Kontakt en av våre konsulenter
 cta_paragraph: CTA
+topicstitle: Test
 ---
 Hvis du driver en liten bedrift har du sikkert opplevd at du blir tilbudt dyrere leveransevilkår enn de store selskapene. Fordi små bedrifter opererer med mindre volum enn større organisasjoner kan det være vanskelig å forhandle seg til gode priser.
 
@@ -18,7 +19,7 @@ Fraktbestilling.no har gjort jobben med å identifisere de beste og mest kostnad
 
 Hos oss kan du bestille alt på ett sted, uavhengig av hva du skal sende og hvor. Bare legg inn detaljene om din leveranse i vår brukervennlige portal – så ordner vi resten!
 
-## Glem forvirrende pristilbud og komplekse matriser
+Glem forvirrende pristilbud og komplekse matriser
 
 Dersom du ikke har erfaring innen logistikk kan det være utfordrende å sammenligne kompliserte og forvirrende pristilbud du får fra aktører i markedet. 
 
