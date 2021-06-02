@@ -1,6 +1,6 @@
 ---
 title: Fraktavtale
-heading: Din pålitelige partner på møbeltransport
+heading: Få en fraktavtale skreddersydd etter dine behov
 subheading: Som en del av vår målsetning om å gi små og mellomstore bedrifter en
   enkel og kostnadseffektiv løsning for frakt tilbyr vi gunstige fraktavtaler
   til alle våre kunder.
