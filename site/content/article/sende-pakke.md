@@ -1,10 +1,10 @@
 ---
 title: Sende pakke?
-heading: Sende pakke?
+heading: Vi gjør det enkelt for deg som skal sende pakke
 subheading: Hvorfor skal små og mellomstore bedrifter betale mer for å sende en
   pakke enn de store selskapene?
-cta_text: Kontakt
-cta_paragraph: Kontakt en av våre konsulenter
+cta_text: Kontakt oss
+cta_paragraph: Kontakt en av våre konsulenter for hjelp til å komme i gang
 image: img/dsc_0726-kopi.jpg
 topicstitle: Test
 ---
