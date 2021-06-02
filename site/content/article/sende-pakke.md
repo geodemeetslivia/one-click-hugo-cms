@@ -6,7 +6,8 @@ subheading: Hvorfor skal små og mellomstore bedrifter betale mer for å sende e
 cta_text: Kontakt oss
 cta_paragraph: Kontakt en av våre konsulenter for hjelp til å komme i gang
 image: img/dsc_0726-kopi.jpg
-topicstitle: Test
+topicstitle: ??
+cards: []
 ---
 Hvis du driver en liten bedrift har du sikkert opplevd at du blir tilbudt dyrere leveransevilkår enn de store selskapene. Fordi små bedrifter opererer med mindre volum enn større organisasjoner kan det være vanskelig å forhandle seg til gode priser.
 
@@ -54,5 +55,3 @@ Vi vil gjøre det så enkelt som mulig for små og mellomstore bedrifter å send
 6. Du blir fakturert hver 14. dag, fremfor ved hver enkelt bestilling.
 
 PS! Når du skal sende pakke kan du også få opp andre relevante tjenester underveis. Skal du for eksempel sende en pakke i Oslo vil det kunne dukke opp muligheter for 3-timers budtjeneste, levering samme dag etc.
-
-**Kontakt en av våre konsulenter**
