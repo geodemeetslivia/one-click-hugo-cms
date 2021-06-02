@@ -27,7 +27,7 @@ topics:
 cards:
   - text: Enkel bestilling, rask levering og konkurransedyktige priser.
     boldText: Sende pakke
-    image: img/rectangle-11378.png
+    image: img/dsc_0726-kopi.jpg
     link: https://fraktbestilling.no/login
   - image: img/rectangle-11376.png
     boldText: Fraktavtale
