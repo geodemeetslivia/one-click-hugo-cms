@@ -4,8 +4,8 @@ heading: Få en fraktavtale skreddersydd etter dine behov
 subheading: Som en del av vår målsetning om å gi små og mellomstore bedrifter en
   enkel og kostnadseffektiv løsning for frakt tilbyr vi gunstige fraktavtaler
   til alle våre kunder.
-cta_text: Kontakt oss for å høre mer om og bestille fraktavtale
-cta_paragraph: Cta
+cta_text: Kontakt oss
+cta_paragraph: Kontakt oss for å høre mer om og bestille fraktavtale
 topicstitle: ??
 ---
 
