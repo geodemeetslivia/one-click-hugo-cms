@@ -8,11 +8,11 @@ cta_text: Kontakt oss
 cta_paragraph: Kontakt oss for å høre mer om og bestille fraktavtale
 topicstitle: ??
 ---
-
-
 Som en del av vår målsetning om å gi små og mellomstore bedrifter en enkel og kostnadseffektiv løsning for frakt tilbyr vi gunstige fraktavtaler til alle våre kunder.
 
 Enten du er en liten bedrift som må sende en pakke i ny og ne, eller du driver en nettbutikk med behov for daglige forsendelser, vil vår fraktavtale legge til rette for fleksibel og smertefri frakt av produkter og varer.
+
+This is great
 
 Over tid vil en fraktavtale også kunne bidra til betydelige besparelser på regnskapsposten for logistikk.
 
