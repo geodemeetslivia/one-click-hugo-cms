@@ -12,8 +12,6 @@ Som en del av vår målsetning om å gi små og mellomstore bedrifter en enkel o
 
 Enten du er en liten bedrift som må sende en pakke i ny og ne, eller du driver en nettbutikk med behov for daglige forsendelser, vil vår fraktavtale legge til rette for fleksibel og smertefri frakt av produkter og varer.
 
-This is great
-
 Over tid vil en fraktavtale også kunne bidra til betydelige besparelser på regnskapsposten for logistikk.
 
 ### Fordelene med en fraktavtale
