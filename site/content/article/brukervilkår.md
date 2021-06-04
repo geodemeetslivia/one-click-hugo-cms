@@ -7,6 +7,7 @@ subheading: For at en leveranse skal kunne gjennomføres på en forsvarlig måte
   skal, og disse vilkårene har til hensikt å sikre at alle parter vet hvilke
   ansvar de har ved en forsendelse.
 cta_text: ""
+topicstitle: ??
 ---
 ### 1. Avtalens omfang
 
@@ -99,8 +100,6 @@ Dersom en av partene vesentlig misligholder avtalen, kan den annen part heve avt
 ### 15. Tvister og lovvalg
 
 Uoverensstemmelser eller konflikt mellom partene om innholdet i eller gjennomføringen av denne avtale, skal søkes løst ved forhandlinger. Dersom slike forhandlinger ikke fører frem, skal tvister løses etter norsk rett ved de alminnelige domstoler, med Vestfold som avtalt verneting.
-
-
 
 Sist oppdatert: 28. januar 2021
 
