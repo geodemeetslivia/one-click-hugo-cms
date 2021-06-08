@@ -47,10 +47,10 @@ I tillegg tilbyr vi:
 
 Vi vil gjøre det så enkelt som mulig for små og mellomstore bedrifter å sende en pakke. Derfor har vi utarbeidet en enkel og oversiktlig bestillingsprosess:
 
-1. Du legger inn mål, vekt, antall kolli, fra- og til-adresse på det du skal sende
-2. Du får opp en liste over tilgjengelige fraktalternativer og deres respektive priser
-3. Du velger det alternativet som passer deg og din kunde best
-4. Når du har bestilt generer vi en etikett for forsendelsen som du kan laste ned via en knapp på oppsummeringssiden. Etiketten sendes i tillegg til oppgitt epostadresse,
+1. Du legger inn mål, vekt, antall kolli, fra- og til-adresse på det du skal sende.
+2. Du får opp en liste over tilgjengelige fraktalternativer og deres respektive priser.
+3. Du velger det alternativet som passer deg og din kunde best.
+4. Når du har bestilt generer vi en etikett for forsendelsen som du kan laste ned via en knapp på oppsummeringssiden. Etiketten sendes i tillegg til oppgitt epostadresse.
 5. Din pakke leveres i henhold til fraktalternativet du har valgt.
 6. Du blir fakturert hver 14. dag, fremfor ved hver enkelt bestilling.
 
