@@ -13,10 +13,14 @@ cards:
     link: https://fraktbestilling.no/article/sende-pakke/
     text: Enkel bestilling, rask levering og konkurransedyktige priser.
   - image: img/dsc_0726-kopi.jpg
-    text: Levering samme dag på forsendelser opp til 3,5 meter lengde og ett tonn i
-      vekt.
-    boldText: Ekspresstjenester
-    link: https://fraktbestilling.no/article/ekspresstjenester/
+    text: Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
+    boldText: Fraktavtale
+    link: https://fraktbestilling.no/article/fraktavtale/
+  - link: https://fraktbestilling.no/article/m%C3%B8beltransport/
+    boldText: Møbeltransprort
+    text: Vi sikrer at dine møbler blir fraktet på en trygg måte og levert til rett
+      tid.
+    image: img/dsc_0726-kopi.jpg
 ---
 ### Henting og levering i ekspressfart
 
