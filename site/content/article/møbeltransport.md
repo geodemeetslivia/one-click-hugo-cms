@@ -6,9 +6,9 @@ subheading: Alle som har vært med på å bære en sofa opp fire etasjer i en ga
 author: []
 cta_link: https://app.fraktbestilling.no
 cta_icon: img/truck-couch-small.png
-cta_text: Med fraktbestilling.no kan du være sikker på at møblene dine blir
-  levert av personer med riktig kompetanse og erfaring.
-cta_paragraph: "Bestill levering av møbler\t"
+cta_text: Vær sikker på at møblene dine blir levert av personer med riktig
+  kompetanse og erfaring.
+cta_paragraph: "Bestill møbeltransport\t"
 image: img/dsc_0845-kopi.jpg
 topicstitle: Tilleggstjenester
 topics:
