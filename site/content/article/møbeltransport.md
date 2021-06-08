@@ -8,7 +8,7 @@ cta_link: https://app.fraktbestilling.no
 cta_icon: img/truck-couch-small.png
 cta_text: Bestill frakt
 cta_paragraph: "Bestill levering av møbler\t"
-image: img/rectangle-11375.jpg
+image: img/dsc_0726-kopi.jpg
 topicstitle: Tilleggstjenester
 topics:
   - title: Innbæring med to mann
