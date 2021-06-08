@@ -6,7 +6,7 @@ subheading: Hvorfor skal små og mellomstore bedrifter betale mer for å sende e
 cta_text: Kontakt oss
 cta_paragraph: Kontakt en av våre konsulenter for hjelp til å komme i gang
 image: img/dsc_0726-kopi.jpg
-topicstitle: ??
+topicstitle: ""
 cards: []
 ---
 Hvis du driver en liten bedrift har du sikkert opplevd at du blir tilbudt dyrere leveransevilkår enn de store selskapene. Fordi små bedrifter opererer med mindre volum enn større organisasjoner kan det være vanskelig å forhandle seg til gode priser.
