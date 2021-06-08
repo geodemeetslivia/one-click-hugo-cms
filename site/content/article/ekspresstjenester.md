@@ -7,6 +7,11 @@ cta_text: Velg en av våre budtjenester
 cta_paragraph: Link til registrering
 image: img/dsc_0845-kopi.jpg
 topicstitle: ""
+cards:
+  - image: img/dsc_0902.jpg
+    boldText: Sende pakke?
+    link: https://fraktbestilling.no/article/sende-pakke/
+    text: Enkel bestilling, rask levering og konkurransedyktige priser.
 ---
 ### Henting og levering i ekspressfart
 
