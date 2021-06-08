@@ -7,7 +7,23 @@ subheading: Som en del av vår målsetning om å gi små og mellomstore bedrifte
 cta_icon: img/dsc_0951-kopi.jpg
 cta_text: Kontakt oss
 cta_paragraph: Kontakt oss for å høre mer om og bestille fraktavtale
-topicstitle: ??
+topicstitle: ""
+cards:
+  - link: https://fraktbestilling.no/article/sende-pakke/
+    image: img/dsc_0845-kopi.jpg
+    text: Vi tilbyr enkel bestilling, rask levering og konkurransedyktige priser.
+    boldText: Sende pakke
+  - link: https://fraktbestilling.no/article/m%C3%B8beltransport/
+    text: Vi sikrer at dine møbler blir fraktet på en trygg måte og levert til rett
+      tid.
+    boldText: Møbeltransport
+    image: img/dsc_0902.jpg
+  - link: https://fraktbestilling.no/article/ekspresstjenester/
+    boldText: Ekspresstjenester
+    text: >
+      Levering samme dag på forsendelser opp til 3,5 meter lengde og ett tonn i
+      vekt.
+    image: img/dsc_0845-kopi.jpg
 ---
 Som en del av vår målsetning om å gi små og mellomstore bedrifter en enkel og kostnadseffektiv løsning for frakt tilbyr vi gunstige fraktavtaler til alle våre kunder.
 
