@@ -22,7 +22,7 @@ cards:
     text: |
       Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
     link: https://fraktbestilling.no/article/fraktavtale/
-    image: img/dsc_0726-kopi.jpg
+    image: img/dsc_0845-kopi.jpg
 ---
 Hvis du driver en liten bedrift har du sikkert opplevd at du blir tilbudt dyrere leveransevilkår enn de store selskapene. Fordi små bedrifter opererer med mindre volum enn større organisasjoner kan det være vanskelig å forhandle seg til gode priser.
 
