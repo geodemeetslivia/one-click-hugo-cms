@@ -6,7 +6,7 @@ subheading: kunder i områdene mellom Oslo og Skien, og jobber kontinuerlig med 
 cta_text: Velg en av våre budtjenester
 cta_paragraph: Link til registrering
 image: img/dsc_0845-kopi.jpg
-topicstitle: ??
+topicstitle: ""
 ---
 ### Henting og levering i ekspressfart
 
