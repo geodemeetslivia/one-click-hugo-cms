@@ -4,9 +4,10 @@ heading: Få en fraktavtale skreddersydd etter dine behov
 subheading: Som en del av vår målsetning om å gi små og mellomstore bedrifter en
   enkel og kostnadseffektiv løsning for frakt tilbyr vi gunstige fraktavtaler
   til alle våre kunder.
-cta_icon: img/dsc_0951-kopi.jpg
+cta_icon: ""
 cta_text: Kontakt oss for å høre mer om og bestille fraktavtale
 cta_paragraph: Kontakt oss
+image: img/dsc_0951-kopi.jpg
 topicstitle: ""
 cards:
   - link: https://fraktbestilling.no/article/sende-pakke/
