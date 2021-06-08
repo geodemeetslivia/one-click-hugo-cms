@@ -12,6 +12,11 @@ cards:
     boldText: Sende pakke?
     link: https://fraktbestilling.no/article/sende-pakke/
     text: Enkel bestilling, rask levering og konkurransedyktige priser.
+  - image: img/dsc_0726-kopi.jpg
+    text: Levering samme dag på forsendelser opp til 3,5 meter lengde og ett tonn i
+      vekt.
+    boldText: Ekspresstjenester
+    link: https://fraktbestilling.no/article/ekspresstjenester/
 ---
 ### Henting og levering i ekspressfart
 
