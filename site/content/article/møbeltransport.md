@@ -29,7 +29,7 @@ cards:
     boldText: Sende pakke
     image: img/dsc_0726-kopi.jpg
     link: https://fraktbestilling.no/login
-  - image: img/rectangle-11376.png
+  - image: img/dsc_0951-kopi.jpg
     boldText: Fraktavtale
     text: Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
     link: https://fraktbestilling.no/login
