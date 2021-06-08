@@ -3,8 +3,8 @@ title: Ekspresstjenester
 heading: Ekspresstjenester – når noe må leveres raskt
 subheading: kunder i områdene mellom Oslo og Skien, og jobber kontinuerlig med å
   utvide dekningsområdet for våre ekspresstjenester.
-cta_text: Bestill ekspresslevering
-cta_paragraph: Cta
+cta_text: Velg en av våre budtjenester
+cta_paragraph: Link til registrering
 topicstitle: ??
 ---
 ### Henting og levering i ekspressfart
@@ -36,5 +36,3 @@ Dersom du bestiller budtjenester gjennom Fraktbestilling.no kan du velge mellom 
 * 6-timers bud 
 
 Alle budtjenester leveres gjennom vårt nettverk av erfarne og pålitelige samarbeidspartnere.
-
-**Velg en av våre budtjenester \*link til registrering\***
