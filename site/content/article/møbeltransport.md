@@ -8,7 +8,7 @@ cta_link: https://app.fraktbestilling.no
 cta_icon: img/truck-couch-small.png
 cta_text: Bestill frakt
 cta_paragraph: "Bestill levering av møbler\t"
-image: img/dsc_0726-kopi.jpg
+image: img/dsc_0845-kopi.jpg
 topicstitle: Tilleggstjenester
 topics:
   - title: Innbæring med to mann
@@ -29,7 +29,7 @@ cards:
     boldText: Sende pakke
     image: img/dsc_0726-kopi.jpg
     link: https://fraktbestilling.no/login
-  - image: img/dsc_0951-kopi.jpg
+  - image: img/dsc_0726-kopi.jpg
     boldText: Fraktavtale
     text: Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
     link: https://fraktbestilling.no/login
