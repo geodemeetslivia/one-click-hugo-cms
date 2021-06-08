@@ -5,6 +5,7 @@ subheading: kunder i områdene mellom Oslo og Skien, og jobber kontinuerlig med 
   utvide dekningsområdet for våre ekspresstjenester.
 cta_text: Velg en av våre budtjenester
 cta_paragraph: Link til registrering
+image: img/dsc_0845-kopi.jpg
 topicstitle: ??
 ---
 ### Henting og levering i ekspressfart
