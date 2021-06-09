@@ -29,16 +29,16 @@ cards:
   - text: Enkel bestilling, rask levering og konkurransedyktige priser.
     boldText: Sende pakke
     image: img/dsc_0726-kopi.jpg
-    link: https://fraktbestilling.no/login
+    link: https://fraktbestilling.no/article/sende-pakke/
   - image: img/dsc_0726-kopi.jpg
     boldText: Fraktavtale
     text: Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
-    link: https://fraktbestilling.no/login
+    link: https://fraktbestilling.no/article/fraktavtale/
   - boldText: Ekspresstjenester
     text: Levering samme dag på forsendelser opp til 3,5 meter lengde og ett tonn i
       vekt.
     image: img/dsc_0902.jpg
-    link: https://fraktbestilling.no/login
+    link: https://fraktbestilling.no/article/ekspresstjenester/
 ---
 Møbler kommer i alle former og fasonger. De er ofte tunge og uhåndterligere, og har som regel høy verdi. Dette stiller særskilte krav til frakt og levering, og bør håndteres av personer med riktig kompetanse og erfaring.
 
