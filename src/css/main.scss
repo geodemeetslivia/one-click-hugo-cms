@@ -93,11 +93,7 @@ small {font-size: 16px;}
     }
 
   }
-  p{
-    &:first-of-type {
-      margin-top: 32px;
-    }
-  }
+
 }
 
 .bedrift_background-1 {
@@ -250,14 +246,13 @@ html {
       }
 
       &.article{
-        padding-top: 80px;
+        padding-top: 48px;
         padding-bottom: 120px;
         .tile {
           margin-bottom: 32px;
         }
         .cta-column {
           width: 100%;
-          margin-bottom: 32px;
           text-align: center;
           .cta-paragraph {
             width: 100%;
@@ -266,11 +261,7 @@ html {
         .sticky {
           display: none;
         }
-        p{
-          &:first-of-type {
-            margin-top: 12px;
-          }
-        }
+
         h3, h5 {
           margin-top: 32px;
           word-break: break-all;
