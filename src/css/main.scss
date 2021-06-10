@@ -258,6 +258,11 @@ html {
       &.article{
         padding-top: 48px;
         padding-bottom: 120px;
+        .card-container{
+          &.mt-xxlarge {
+            margin-top: 58px !important;
+          }
+        }
         .tile {
           margin-bottom: 32px;
         }
