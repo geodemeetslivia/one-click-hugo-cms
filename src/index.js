@@ -57,7 +57,7 @@ else {
 });
 
 
-let $cardHeaderIcons = Array.prototype.slice.call(document.querySelectorAll('.card-header-icon'), 0);
+let $cardHeaderIcons = Array.prototype.slice.call(document.querySelectorAll('.card-header'), 0);
 if ($cardHeaderIcons.length > 0) {
 
   // Add a click event on each of them
@@ -69,7 +69,7 @@ if ($cardHeaderIcons.length > 0) {
       let $target = document.getElementById(target);
       let $icon = $el.querySelector('i');
       $icon.classList.toggle('fa-times');
-      $el.parentElement.querySelector('.card-header-title').classList.toggle('has-text-weight-bold');
+      $el.querySelector('.card-header-title').classList.toggle('has-text-weight-bold');
 
       // Toggle visibility
       $target.classList.toggle('is-hidden');
