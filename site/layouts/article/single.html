@@ -90,17 +90,20 @@
       </div>
     </div>
     {{ if .Params.cta_text }}
-    <div class="columns mt-large is-hidden-desktop is-hidden-tablet-only">
-      <div class="column cta-column">
-        <img src="{{.Params.cta_icon}}">
-        <p class="cta-paragraph">{{.Params.cta_paragraph}}</p>
-        <a href="{{.Params.cta_link}}" class="mt-standard button is-outlined">{{.Params.cta_text}}</a>
+
+      <div class="columns mt-large is-hidden-desktop is-hidden-tablet-only">
+        <div class="column cta-column">
+          <img src="{{.Params.cta_icon}}">
+          <p class="cta-paragraph">{{.Params.cta_paragraph}}</p>
+          <a href="{{.Params.cta_link}}" class="mt-standard button is-outlined">{{.Params.cta_text}}</a>
+        </div>
       </div>
-    </div>
+
     {{ end }}
-    <div class="columns is-variable mt-large" id="cards">
+
+    <div class="columns is-variable" id="cards">
         {{ range $index, $element := .Params.Cards }}
-        <div class="column">
+        <div class="column  mt-large">
           <div class="tile">
             <div class="card-image">
 
