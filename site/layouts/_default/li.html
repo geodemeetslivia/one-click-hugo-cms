@@ -1,6 +1,12 @@
-<a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-	<p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-	<p class="mb0">{{ .Description }}</p>
-	<p class="link b dib black mb0">Read more →</p>
+<a href="{{ .RelPermalink }}" class="card-container">
+    <div class="column">
+      <div class="card-container">
+        <div class="card-image">
+          <div class="card-image-container"><a href="{{ .RelPermalink }}">
+            <img src="{{ .Params.image }}" class="cover"/></a>
+          </div>
+          <div><a href="{{.RelPermalink}}"><strong>{{.Title}}</strong>&nbsp;
+            <span class="has-text-light-gray">{{.Params.heading }}</span></a></div></div>
+      </div>
+    </div>
 </a>

@@ -1,16 +1,34 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
+  <div class="section article">
+    <div class="columns is-variable">
 
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
+      <div class="column is-8">
+        <h1 class="has-text-weight-semibold">{{.Title}}</h1>
+
+      </div> <div class="column is-4"></div>
+    </div>
+    <div class="columns is-variable  mt-xlarge">
+      {{ range first 2  (where .Pages ".Title" "not in" (slice "Brukervilkar" "Kontakt oss" "Omfraktbestilling")) }}
+         <div class="column">
             {{ .Render "li"}}
-          </div>
+         </div>
       {{ end }}
-  </ul>
-  {{ partial "pagination" . }}
-</div>
+    </div>
+    <div class="columns is-variable mt-xlarge">
+      {{ range first 3 (after 2 (where .Pages ".Title" "not in" (slice "Brukervilkar" "Kontakt oss" "Omfraktbestilling"))) }}
+      <div class="column">
+        {{ .Render "li"}}
+      </div>
+      {{ end }}
+    </div>
+    <div class="columns is-variable mt-xlarge">
+      {{ range first 3 (after 5 (where .Pages ".Title" "not in" (slice "Brukervilkar" "Kontakt oss" "Omfraktbestilling"))) }}
+      <div class="column">
+        {{ .Render "li"}}
+      </div>
+      {{ end }}
+    </div>
+  </div>
 
 {{end}}
