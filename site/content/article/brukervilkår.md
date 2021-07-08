@@ -7,7 +7,7 @@ subheading: For at en leveranse skal kunne gjennomføres på en forsvarlig måte
   skal, og disse vilkårene har til hensikt å sikre at alle parter vet hvilke
   ansvar de har ved en forsendelse.
 cta_text: ""
-topicstitle: ??
+topicstitle: ""
 ---
 ### 1. Avtalens omfang
 
