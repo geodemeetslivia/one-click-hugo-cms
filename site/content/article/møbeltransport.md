@@ -54,8 +54,6 @@ Bilene vi bruker for å frakte og levere møbler er utstyrt med tepper, lastestr
 
 Alle møbler er forsvarlig sikret under transporten, og våre erfarne ansatte sørger for at leveransen skjer uten skader og andre problemer.
 
-> Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker å få varen levert
-
 Bilene våre er i tillegg utstyrt med alt nødvendig monterings- og installasjonsutstyr – og vi kan derfor tilby dette som tilleggstjenester.
 
 ### Transport av møbler med Fraktbestilling.no
