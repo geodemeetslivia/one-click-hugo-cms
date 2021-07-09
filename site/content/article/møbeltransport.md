@@ -62,4 +62,4 @@ Når du velger vår møbeltjeneste kan kundene dine selv velge når de ønsker �
 
 Som en del av tilbudet vil vår sjåfør bære inn møblene sammen med mottaker, dersom det ikke er bestilt innbæring med to mann. Dette er en av flere tilleggstjenester vi tilbyr.
 
-[Kontakt oss for mer informasjon](www.test.no)
+[Kontakt oss for mer informasjon](https://fraktbestilling.no/article/kontakt-oss/)
