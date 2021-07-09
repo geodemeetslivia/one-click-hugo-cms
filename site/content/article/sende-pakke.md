@@ -3,6 +3,7 @@ title: Sende pakke?
 heading: Vi gjør det enkelt for deg som skal sende pakke
 subheading: Hvorfor skal små og mellomstore bedrifter betale mer for å sende en
   pakke enn de store selskapene?
+cta_link: https://fraktbestilling.no/article/kontakt-oss/
 cta_icon: img/artboard-3.png
 cta_text: Kontakt oss
 cta_paragraph: Kontakt en av våre konsulenter for hjelp til å komme i gang
