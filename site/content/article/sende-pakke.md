@@ -3,16 +3,17 @@ title: Sende pakke?
 heading: Vi gjør det enkelt for deg som skal sende pakke
 subheading: Hvorfor skal små og mellomstore bedrifter betale mer for å sende en
   pakke enn de store selskapene?
+cta_icon: img/artboard-3.png
 cta_text: Kontakt oss
 cta_paragraph: Kontakt en av våre konsulenter for hjelp til å komme i gang
-image: img/dsc_0726-kopi.jpg
+image: img/dsc_1224-kopi.jpg
 topicstitle: ""
 cards:
   - boldText: Fraktavtale
     text: |
       Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
     link: https://fraktbestilling.no/article/fraktavtale/
-    image: img/dsc_0845-kopi.jpg
+    image: img/dsc_1244-kopi.jpg
   - text: Levering samme dag på forsendelser opp til 3,5 meter lengde og ett tonn i
       vekt.
     boldText: Ekspresstjenester
