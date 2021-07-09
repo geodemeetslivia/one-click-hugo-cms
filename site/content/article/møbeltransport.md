@@ -9,7 +9,7 @@ cta_icon: img/artboard-4.png
 cta_text: Bli kunde
 cta_paragraph: Vær sikker på at møblene dine blir levert av personer med riktig
   kompetanse og erfaring.
-image: ""
+image: img/dsc_1177-kopi.jpg
 topicstitle: Tilleggstjenester
 topics:
   - title: Innbæring med to mann
