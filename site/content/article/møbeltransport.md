@@ -5,7 +5,7 @@ subheading: Alle som har vært med på å bære en sofa opp fire etasjer i en ga
   bygård uten heis vet at det å transportere møbler kan være utfordrende.
 author: []
 cta_link: https://app.fraktbestilling.no
-cta_icon: img/truck-couch-small.png
+cta_icon: img/artboard-4.png
 cta_text: Bli kunde
 cta_paragraph: Vær sikker på at møblene dine blir levert av personer med riktig
   kompetanse og erfaring.
@@ -28,17 +28,17 @@ topics:
 cards:
   - text: Enkel bestilling, rask levering og konkurransedyktige priser.
     boldText: Sende pakke
-    image: img/dsc_0726-kopi.jpg
+    image: img/dsc_1244-kopi.jpg
     link: https://fraktbestilling.no/article/sende-pakke/
-  - image: img/dsc_0726-kopi.jpg
-    boldText: Fraktavtale
-    text: Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
-    link: https://fraktbestilling.no/article/fraktavtale/
   - boldText: Ekspresstjenester
     text: Levering samme dag på forsendelser opp til 3,5 meter lengde og ett tonn i
       vekt.
-    image: img/dsc_0902.jpg
+    image: img/dsc_1489-kopi.jpg
     link: https://fraktbestilling.no/article/ekspresstjenester/
+  - image: img/dsc_1093-kopi2.jpg
+    boldText: Fraktavtale
+    text: Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
+    link: https://fraktbestilling.no/article/fraktavtale/
 ---
 Møbler kommer i alle former og fasonger. De er ofte tunge og uhåndterligere, og har som regel høy verdi. Dette stiller særskilte krav til frakt og levering, og bør håndteres av personer med riktig kompetanse og erfaring.
 
