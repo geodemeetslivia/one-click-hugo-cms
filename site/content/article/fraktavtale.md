@@ -4,27 +4,27 @@ heading: Få en fraktavtale skreddersydd etter dine behov
 subheading: Som en del av vår målsetning om å gi små og mellomstore bedrifter en
   enkel og kostnadseffektiv løsning for frakt tilbyr vi gunstige fraktavtaler
   til alle våre kunder.
-cta_icon: ""
+cta_icon: img/dsc_1224-kopi.jpg
 cta_text: Kontakt oss
 cta_paragraph: Kontakt oss for å høre mer om og bestille fraktavtale
-image: img/dsc_1224-kopi.jpg
+image: ""
 topicstitle: ""
 cards:
   - link: https://fraktbestilling.no/article/sende-pakke/
-    image: img/dsc_0845-kopi.jpg
+    image: img/dsc_1244-kopi.jpg
     text: Vi tilbyr enkel bestilling, rask levering og konkurransedyktige priser.
     boldText: Sende pakke
-  - link: https://fraktbestilling.no/article/m%C3%B8beltransport/
-    text: Vi sikrer at dine møbler blir fraktet på en trygg måte og levert til rett
-      tid.
-    boldText: Møbeltransport
-    image: img/dsc_0902.jpg
   - link: https://fraktbestilling.no/article/ekspresstjenester/
     boldText: Ekspresstjenester
     text: >
       Levering samme dag på forsendelser opp til 3,5 meter lengde og ett tonn i
       vekt.
-    image: img/dsc_0845-kopi.jpg
+    image: img/dsc_1489-kopi.jpg
+  - link: https://fraktbestilling.no/article/m%C3%B8beltransport/
+    text: Vi sikrer at dine møbler blir fraktet på en trygg måte og levert til rett
+      tid.
+    boldText: Møbeltransport
+    image: img/rectangle-11674-small-.png
 ---
 Som en del av vår målsetning om å gi små og mellomstore bedrifter en enkel og kostnadseffektiv løsning for frakt tilbyr vi gunstige fraktavtaler til alle våre kunder.
 
