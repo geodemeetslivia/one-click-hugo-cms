@@ -4,8 +4,8 @@ heading: Ekspresstjenester – når noe må leveres raskt
 subheading: kunder i områdene mellom Oslo og Skien, og jobber kontinuerlig med å
   utvide dekningsområdet for våre ekspresstjenester.
 cta_icon: img/artboard-2.png
-cta_text: Bli kunde og velg en av våre ekspresstjenester
-cta_paragraph: Bli kunde
+cta_text: "Bli kunde "
+cta_paragraph: Bli kunde og velg en av våre ekspresstjenester
 image: img/dsc_0845-kopi.jpg
 topicstitle: ""
 cards:
