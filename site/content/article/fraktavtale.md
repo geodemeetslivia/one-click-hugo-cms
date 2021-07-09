@@ -7,7 +7,7 @@ subheading: Som en del av vår målsetning om å gi små og mellomstore bedrifte
 cta_icon: img/artboard-1.png
 cta_text: Kontakt oss
 cta_paragraph: Kontakt oss for å høre mer om og bestille fraktavtale
-image: img/dsc_1224-kopi.jpg
+image: img/dsc_1417-kopi.pg.jpg
 topicstitle: ""
 cards:
   - link: https://fraktbestilling.no/article/sende-pakke/
