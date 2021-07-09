@@ -3,12 +3,13 @@ title: Ekspresstjenester
 heading: Ekspresstjenester – når noe må leveres raskt
 subheading: kunder i områdene mellom Oslo og Skien, og jobber kontinuerlig med å
   utvide dekningsområdet for våre ekspresstjenester.
-cta_text: Velg en av våre budtjenester
-cta_paragraph: Link til registrering
+cta_icon: img/artboard-2.png
+cta_text: Bli kunde og velg en av våre ekspresstjenester
+cta_paragraph: Bli kunde
 image: img/dsc_0845-kopi.jpg
 topicstitle: ""
 cards:
-  - image: img/dsc_0902.jpg
+  - image: img/dsc_1244-kopi.jpg
     boldText: Sende pakke?
     link: https://fraktbestilling.no/article/sende-pakke/
     text: Enkel bestilling, rask levering og konkurransedyktige priser.
@@ -20,7 +21,7 @@ cards:
     boldText: Møbeltransprort
     text: Vi sikrer at dine møbler blir fraktet på en trygg måte og levert til rett
       tid.
-    image: img/dsc_0726-kopi.jpg
+    image: img/rectangle-11674-small-.png
 ---
 ### Henting og levering i ekspressfart
 
