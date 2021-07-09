@@ -9,7 +9,7 @@ cta_paragraph: Bli kunde og send med en av våre ekspresstjenester
 image: img/dsc_0845-kopi.jpg
 topicstitle: ""
 cards:
-  - image: img/dsc_1093-kopi.jpg
+  - image: img/dsc_1244-kopi.jpg
     boldText: Sende pakke?
     link: https://fraktbestilling.no/article/sende-pakke/
     text: Enkel bestilling, rask levering og konkurransedyktige priser.
