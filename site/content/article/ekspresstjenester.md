@@ -13,7 +13,7 @@ cards:
     boldText: Sende pakke?
     link: https://fraktbestilling.no/article/sende-pakke/
     text: Enkel bestilling, rask levering og konkurransedyktige priser.
-  - image: img/dsc_0726-kopi.jpg
+  - image: img/dsc_1093-kopi2.jpg
     text: Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
     boldText: Fraktavtale
     link: https://fraktbestilling.no/article/fraktavtale/
