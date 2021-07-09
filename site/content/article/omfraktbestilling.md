@@ -4,7 +4,7 @@ heading: Levering gjort enkelt
 subheading: Fraktbestilling.no er en bedriftsløsning levert av Nimber. Vårt mål
   er å gjøre bestilling av frakt så enkelt som mulig.
 cta_text: ""
-image: ""
+image: img/dsc_1471-kopi.jpg
 topics: []
 ---
 Nimber ble etablert i 2012 og har bygd seg opp som en plattform som kan løse de fleste transportbehov. Denne plattformen er ikke like godt egnet for bedrifter som sender mye. Derfor har vi nå lansert en ny plattform for bedrifter. 
