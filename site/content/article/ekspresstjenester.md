@@ -3,6 +3,7 @@ title: Ekspresstjenester
 heading: Ekspresstjenester – når noe må leveres raskt
 subheading: kunder i områdene mellom Oslo og Skien, og jobber kontinuerlig med å
   utvide dekningsområdet for våre ekspresstjenester.
+cta_link: https://app.fraktbestilling.no/register
 cta_icon: img/artboard-2.png
 cta_text: "Bli kunde "
 cta_paragraph: Bli kunde og send med en av våre ekspresstjenester
