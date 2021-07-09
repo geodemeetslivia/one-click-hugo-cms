@@ -8,21 +8,21 @@ cta_paragraph: Kontakt en av våre konsulenter for hjelp til å komme i gang
 image: img/dsc_0726-kopi.jpg
 topicstitle: ""
 cards:
-  - boldText: Møbeltransport
-    text: Vi sikrer at dine møbler blir fraktet på en trygg måte og levert til rett
-      tid.
-    image: img/dsc_0845-kopi.jpg
-    link: https://fraktbestilling.no/article/m%C3%B8beltransport/
-  - text: Levering samme dag på forsendelser opp til 3,5 meter lengde og ett tonn i
-      vekt.
-    boldText: Ekspresstjenester
-    link: https://fraktbestilling.no/article/ekspresstjenester/
-    image: img/dsc_0902.jpg
   - boldText: Fraktavtale
     text: |
       Skreddersy frakt og levering etter dine behov – til svært gunstige priser.
     link: https://fraktbestilling.no/article/fraktavtale/
     image: img/dsc_0845-kopi.jpg
+  - text: Levering samme dag på forsendelser opp til 3,5 meter lengde og ett tonn i
+      vekt.
+    boldText: Ekspresstjenester
+    link: https://fraktbestilling.no/article/ekspresstjenester/
+    image: img/dsc_1489-kopi.jpg
+  - boldText: Møbeltransport
+    text: Vi sikrer at dine møbler blir fraktet på en trygg måte og levert til rett
+      tid.
+    image: img/rectangle-11674-small-.png
+    link: https://fraktbestilling.no/article/m%C3%B8beltransport/
 ---
 Hvis du driver en liten bedrift har du sikkert opplevd at du blir tilbudt dyrere leveransevilkår enn de store selskapene. Fordi små bedrifter opererer med mindre volum enn større organisasjoner kan det være vanskelig å forhandle seg til gode priser.
 
